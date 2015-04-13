@@ -34,8 +34,7 @@ Output files
 * vendorMacs-generated.xml
 	- xml file format
 
-applee-enum-generated.txt
------------------------------
+###applee-enum-generated.txt
 
 *File contents*
 ```
@@ -90,8 +89,7 @@ public enum AppleMacs {
 }
 ```
 
-vendorMacs-generated.prop
--------------------------
+###vendorMacs-generated.prop
 '=' Seperated file.
 
 *File contents*
@@ -129,8 +127,7 @@ vendorMacs-generated.prop
     } 
 ```
 
-vendorMacs-generated.xml
-------------------------
+###vendorMacs-generated.xml
 xml file format.
 
 *File content*
