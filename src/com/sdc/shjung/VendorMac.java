@@ -99,7 +99,7 @@ public class VendorMac {
         bfw.close();
         
         System.out.println("Done!!!, File generated : " + APPLE_ENUM_PATH);
-        System.out.println("You can Copy and Paste to com.lge.aha.constants.AppleMacs.java");
+        System.out.println("You can Copy and Paste to AppleMacs.java");
     }    
 
     private static void loadOUIAndmakeXml(final String source) throws IOException, XmlPullParserException {
