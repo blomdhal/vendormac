@@ -7,22 +7,28 @@ Precondition
 ------------
 
  1. Source file from http://standards-oui.ieee.org/oui.txt.
- 2. Save as IEEE-oui.txt(Default source file name)
- 
+ 2. Save as oui.txt(Default source file name)
+
 > NOTE: Periodically Need to update http://standards-oui.ieee.org/oui.txt 
 
 
 Usage
 -----
-
 ```
+cmd> java -jar vendormac.jar
 cmd> java -jar vendormac.jar <source file>
 ```
 
-*Example*
+*Example 1. Use URL internally. - http://standards-oui.ieee.org/oui.txt.*
 ```
-cmd> java -jar vendormac.jar IEEE-oui.txt
+cmd> java -jar vendormac.jar
 ```
+
+*Example 2. Use database file oui.txt.*
+```
+cmd> java -jar vendormac.jar oui.txt
+```
+
 
 Output files
 ------------
