@@ -1,5 +1,5 @@
 <?xml version='1.0' standalone='yes' ?>
-<!--  Generated: Wed, 20 May 2015 05:00:03 -0400-->
+<!--  Generated: Wed, 15 Jul 2015 05:00:03 -0400-->
 <MacAddressVendorMappings xmlns="http://standards-oui.ieee.org/oui.txt">
   <VendorMapping mac_prefix="000000" vendor_name="XEROX CORPORATION" />
   <VendorMapping mac_prefix="000001" vendor_name="XEROX CORPORATION" />
@@ -1105,7 +1105,7 @@
   <VendorMapping mac_prefix="00044C" vendor_name="JENOPTIK" />
   <VendorMapping mac_prefix="00044D" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="00044E" vendor_name="CISCO SYSTEMS, INC." />
-  <VendorMapping mac_prefix="00044F" vendor_name="Leukhardt Systemelektronik GmbH" />
+  <VendorMapping mac_prefix="00044F" vendor_name="Schubert System Elektronik Gmbh" />
   <VendorMapping mac_prefix="000450" vendor_name="DMD Computers SRL" />
   <VendorMapping mac_prefix="000451" vendor_name="Medrad, Inc." />
   <VendorMapping mac_prefix="000452" vendor_name="RocketLogix, Inc." />
@@ -7983,7 +7983,7 @@
   <VendorMapping mac_prefix="001F46" vendor_name="Nortel" />
   <VendorMapping mac_prefix="001F47" vendor_name="MCS Logic Inc." />
   <VendorMapping mac_prefix="001F48" vendor_name="Mojix Inc." />
-  <VendorMapping mac_prefix="001F49" vendor_name="Manhattan Technology Limited" />
+  <VendorMapping mac_prefix="001F49" vendor_name="Manhattan TV Ltd" />
   <VendorMapping mac_prefix="001F4A" vendor_name="Albentia Systems S.A." />
   <VendorMapping mac_prefix="001F4B" vendor_name="Lineage Power" />
   <VendorMapping mac_prefix="001F4C" vendor_name="Roseman Engineering Ltd" />
@@ -8181,7 +8181,7 @@
   <VendorMapping mac_prefix="00200C" vendor_name="ADASTRA SYSTEMS CORP." />
   <VendorMapping mac_prefix="00200D" vendor_name="CARL ZEISS" />
   <VendorMapping mac_prefix="00200E" vendor_name="SATELLITE TECHNOLOGY MGMT, INC" />
-  <VendorMapping mac_prefix="00200F" vendor_name="TANBAC CO., LTD." />
+  <VendorMapping mac_prefix="00200F" vendor_name="EBRAINS Inc" />
   <VendorMapping mac_prefix="002010" vendor_name="JEOL SYSTEM TECHNOLOGY CO. LTD" />
   <VendorMapping mac_prefix="002011" vendor_name="CANOPUS CO., LTD." />
   <VendorMapping mac_prefix="002012" vendor_name="CAMTRONICS MEDICAL SYSTEMS" />
@@ -8933,7 +8933,7 @@
   <VendorMapping mac_prefix="0022FC" vendor_name="Nokia Danmark A/S" />
   <VendorMapping mac_prefix="0022FD" vendor_name="Nokia Danmark A/S" />
   <VendorMapping mac_prefix="0022FE" vendor_name="Advanced Illumination" />
-  <VendorMapping mac_prefix="0022FF" vendor_name="iWDL Technologies" />
+  <VendorMapping mac_prefix="0022FF" vendor_name="NIVIS LLC" />
   <VendorMapping mac_prefix="002300" vendor_name="Cayee Computer Ltd." />
   <VendorMapping mac_prefix="002301" vendor_name="Witron Technology Limited" />
   <VendorMapping mac_prefix="002302" vendor_name="Cobalt Digital, Inc." />
@@ -9276,7 +9276,7 @@
   <VendorMapping mac_prefix="002455" vendor_name="MuLogic BV" />
   <VendorMapping mac_prefix="002456" vendor_name="2Wire" />
   <VendorMapping mac_prefix="002458" vendor_name="PA Bastion CC" />
-  <VendorMapping mac_prefix="002459" vendor_name="ABB STOTZ-KONTAKT GmbH" />
+  <VendorMapping mac_prefix="002459" vendor_name="ABB Automation products GmbH" />
   <VendorMapping mac_prefix="00245A" vendor_name="Nanjing Panda Electronics Company Limited" />
   <VendorMapping mac_prefix="00245B" vendor_name="RAIDON TECHNOLOGY, INC." />
   <VendorMapping mac_prefix="00245C" vendor_name="Design-Com Technologies Pty. Ltd." />
@@ -10248,6 +10248,7 @@
   <VendorMapping mac_prefix="00323A" vendor_name="so-logic" />
   <VendorMapping mac_prefix="00336C" vendor_name="SynapSense Corporation" />
   <VendorMapping mac_prefix="0034F1" vendor_name="Radicom Research, Inc." />
+  <VendorMapping mac_prefix="0034FE" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="003532" vendor_name="Electro-Metrics Corporation" />
   <VendorMapping mac_prefix="003560" vendor_name="Rosen Aviation" />
   <VendorMapping mac_prefix="0036F8" vendor_name="Conti Temic microelectronic GmbH" />
@@ -11303,6 +11304,7 @@
   <VendorMapping mac_prefix="0080FD" vendor_name="EXSCEED CORPRATION" />
   <VendorMapping mac_prefix="0080FE" vendor_name="AZURE TECHNOLOGIES, INC." />
   <VendorMapping mac_prefix="0080FF" vendor_name="SOC. DE TELEINFORMATIQUE RTC" />
+  <VendorMapping mac_prefix="0084ED" vendor_name="" />
   <VendorMapping mac_prefix="0086A0" vendor_name="" />
   <VendorMapping mac_prefix="008865" vendor_name="Apple" />
   <VendorMapping mac_prefix="008B43" vendor_name="RFTECH" />
@@ -12531,7 +12533,7 @@
   <VendorMapping mac_prefix="00E059" vendor_name="CONTROLLED ENVIRONMENTS, LTD." />
   <VendorMapping mac_prefix="00E05A" vendor_name="GALEA NETWORK SECURITY" />
   <VendorMapping mac_prefix="00E05B" vendor_name="WEST END SYSTEMS CORP." />
-  <VendorMapping mac_prefix="00E05C" vendor_name="MATSUSHITA KOTOBUKI ELECTRONICS INDUSTRIES, LTD." />
+  <VendorMapping mac_prefix="00E05C" vendor_name="Panasonic Healthcare Co., Ltd." />
   <VendorMapping mac_prefix="00E05D" vendor_name="UNITEC CO., LTD." />
   <VendorMapping mac_prefix="00E05E" vendor_name="JAPAN AVIATION ELECTRONICS INDUSTRY, LTD." />
   <VendorMapping mac_prefix="00E05F" vendor_name="e-Net, Inc." />
@@ -12710,6 +12712,7 @@
   <VendorMapping mac_prefix="00F46F" vendor_name="Samsung Elec Co.,Ltd" />
   <VendorMapping mac_prefix="00F4B9" vendor_name="Apple" />
   <VendorMapping mac_prefix="00F76F" vendor_name="Apple" />
+  <VendorMapping mac_prefix="00F81C" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="00F860" vendor_name="PT. Panggung Electric Citrabuana" />
   <VendorMapping mac_prefix="00FA3B" vendor_name="CLOOS ELECTRONIC GMBH" />
   <VendorMapping mac_prefix="00FC58" vendor_name="WebSilicon Ltd." />
@@ -12729,6 +12732,7 @@
   <VendorMapping mac_prefix="02C08C" vendor_name="3COM CORPORATION" />
   <VendorMapping mac_prefix="02CF1C" vendor_name="COMMUNICATION MACHINERY CORP." />
   <VendorMapping mac_prefix="02E6D3" vendor_name="NIXDORF COMPUTER CORPORATION" />
+  <VendorMapping mac_prefix="04021F" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="040A83" vendor_name="Alcatel-Lucent" />
   <VendorMapping mac_prefix="040AE0" vendor_name="XMIT AG COMPUTER NETWORKS" />
   <VendorMapping mac_prefix="040CCE" vendor_name="Apple" />
@@ -12742,6 +12746,7 @@
   <VendorMapping mac_prefix="041BBA" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="041D10" vendor_name="Dream Ware Inc." />
   <VendorMapping mac_prefix="041E64" vendor_name="Apple" />
+  <VendorMapping mac_prefix="041E7A" vendor_name="DSPWorks" />
   <VendorMapping mac_prefix="04209A" vendor_name="Panasonic AVC Networks Company" />
   <VendorMapping mac_prefix="042234" vendor_name="Wireless Standard Extensions" />
   <VendorMapping mac_prefix="042605" vendor_name="GFR Gesellschaft f&#52404;r Regelungstechnik und Energieeinsparung mbH" />
@@ -12751,6 +12756,7 @@
   <VendorMapping mac_prefix="0432F4" vendor_name="Partron" />
   <VendorMapping mac_prefix="043604" vendor_name="Gyeyoung IT" />
   <VendorMapping mac_prefix="043D98" vendor_name="ChongQing QingJia Electronics CO.,LTD" />
+  <VendorMapping mac_prefix="044169" vendor_name="GoPro" />
   <VendorMapping mac_prefix="0444A1" vendor_name="TELECON GALICIA,S.A." />
   <VendorMapping mac_prefix="044665" vendor_name="Murata Manufacturing Co., Ltd." />
   <VendorMapping mac_prefix="04489A" vendor_name="Apple" />
@@ -12773,6 +12779,7 @@
   <VendorMapping mac_prefix="0462D7" vendor_name="ALSTOM HYDRO FRANCE" />
   <VendorMapping mac_prefix="0463E0" vendor_name="Nome Oy" />
   <VendorMapping mac_prefix="046785" vendor_name="scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH" />
+  <VendorMapping mac_prefix="0469F8" vendor_name="Apple" />
   <VendorMapping mac_prefix="046D42" vendor_name="Bryston Ltd." />
   <VendorMapping mac_prefix="046E49" vendor_name="TaiYear Electronic Technology (Suzhou) Co., Ltd" />
   <VendorMapping mac_prefix="0470BC" vendor_name="Globalstar Inc." />
@@ -12988,10 +12995,12 @@
   <VendorMapping mac_prefix="08008F" vendor_name="CHIPCOM CORPORATION" />
   <VendorMapping mac_prefix="080090" vendor_name="SONOMA SYSTEMS" />
   <VendorMapping mac_prefix="080371" vendor_name="KRG CORPORATE" />
+  <VendorMapping mac_prefix="080581" vendor_name="Roku, Inc" />
   <VendorMapping mac_prefix="0805CD" vendor_name="DongGuang EnMai Electronic Product Co.Ltd." />
   <VendorMapping mac_prefix="0808C2" vendor_name="Samsung Electronics" />
   <VendorMapping mac_prefix="0808EA" vendor_name="AMSC" />
   <VendorMapping mac_prefix="0809B6" vendor_name="Masimo Corp" />
+  <VendorMapping mac_prefix="080A4E" vendor_name="Planet Bingo&#51696; &#65533;&#65533;3rd Rock Gaming&#51696;" />
   <VendorMapping mac_prefix="080C0B" vendor_name="SysMik GmbH Dresden" />
   <VendorMapping mac_prefix="080CC9" vendor_name="Mission Technology Group, dba Magma" />
   <VendorMapping mac_prefix="080D84" vendor_name="GECO, Inc." />
@@ -13066,6 +13075,7 @@
   <VendorMapping mac_prefix="08952A" vendor_name="Technicolor CH USA Inc" />
   <VendorMapping mac_prefix="0896D7" vendor_name="AVM GmbH" />
   <VendorMapping mac_prefix="089758" vendor_name="Shenzhen Strong Rising Electronics Co.,Ltd DongGuan Subsidiary" />
+  <VendorMapping mac_prefix="089B4B" vendor_name="iKuai Networks" />
   <VendorMapping mac_prefix="089E01" vendor_name="QUANTA COMPUTER INC." />
   <VendorMapping mac_prefix="089F97" vendor_name="LEROY AUTOMATION" />
   <VendorMapping mac_prefix="08A12B" vendor_name="ShenZhen EZL Technology Co., Ltd" />
@@ -13169,6 +13179,7 @@
   <VendorMapping mac_prefix="0C8484" vendor_name="Zenovia Electronics Inc." />
   <VendorMapping mac_prefix="0C84DC" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="0C8525" vendor_name="CISCO SYSTEMS, INC." />
+  <VendorMapping mac_prefix="0C8610" vendor_name="Juniper networks" />
   <VendorMapping mac_prefix="0C8910" vendor_name="Samsung Electronics Co.,LTD" />
   <VendorMapping mac_prefix="0C8BFD" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="0C8C8F" vendor_name="Kamo Technology Limited" />
@@ -13212,6 +13223,7 @@
   <VendorMapping mac_prefix="0CD2B5" vendor_name="Binatone Telecommunication Pvt. Ltd" />
   <VendorMapping mac_prefix="0CD502" vendor_name="Westell" />
   <VendorMapping mac_prefix="0CD696" vendor_name="Amimon Ltd" />
+  <VendorMapping mac_prefix="0CD6BD" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="0CD7C2" vendor_name="Axium Technologies, Inc." />
   <VendorMapping mac_prefix="0CD996" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="0CD9C1" vendor_name="Visteon Corporation" />
@@ -13349,6 +13361,7 @@
   <VendorMapping mac_prefix="10C6FC" vendor_name="Garmin International" />
   <VendorMapping mac_prefix="10C73F" vendor_name="Midas Klark Teknik Ltd" />
   <VendorMapping mac_prefix="10CA81" vendor_name="PRECIA" />
+  <VendorMapping mac_prefix="10CC1B" vendor_name="Liverock technologies,INC" />
   <VendorMapping mac_prefix="10CCDB" vendor_name="AXIMUM PRODUITS ELECTRONIQUES" />
   <VendorMapping mac_prefix="10CDAE" vendor_name="Avaya, Inc" />
   <VendorMapping mac_prefix="10D1DC" vendor_name="INSTAR Deutschland GmbH" />
@@ -13385,6 +13398,7 @@
   <VendorMapping mac_prefix="141330" vendor_name="Anakreon UK LLP" />
   <VendorMapping mac_prefix="14144B" vendor_name="FUJIAN STAR-NET COMMUNICATION CO.,LTD" />
   <VendorMapping mac_prefix="14157C" vendor_name="TOKYO COSMOS ELECTRIC CO.,LTD." />
+  <VendorMapping mac_prefix="141877" vendor_name="Dell Inc" />
   <VendorMapping mac_prefix="141A51" vendor_name="Treetech Sistemas Digitais" />
   <VendorMapping mac_prefix="141AA3" vendor_name="Motorola Mobility LLC" />
   <VendorMapping mac_prefix="141BBD" vendor_name="Volex Inc." />
@@ -13455,6 +13469,7 @@
   <VendorMapping mac_prefix="14AEDB" vendor_name="VTech Telecommunications Ltd." />
   <VendorMapping mac_prefix="14B126" vendor_name="Industrial Software Co" />
   <VendorMapping mac_prefix="14B1C8" vendor_name="InfiniWing, Inc." />
+  <VendorMapping mac_prefix="14B370" vendor_name="Gigaset Digital Technology (Shenzhen) Co., Ltd." />
   <VendorMapping mac_prefix="14B484" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="14B73D" vendor_name="ARCHEAN Technologies" />
   <VendorMapping mac_prefix="14B968" vendor_name="Huawei Technologies Co., Ltd" />
@@ -13641,6 +13656,7 @@
   <VendorMapping mac_prefix="1C1CFD" vendor_name="Dalian Hi-Think Computer Technology, Corp" />
   <VendorMapping mac_prefix="1C1D67" vendor_name="Shenzhen Huawei Communication Technologies Co., Ltd" />
   <VendorMapping mac_prefix="1C1D86" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="1C21D1" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="1C334D" vendor_name="ITS Telecom" />
   <VendorMapping mac_prefix="1C3477" vendor_name="Innovation Wireless" />
   <VendorMapping mac_prefix="1C35F1" vendor_name="NEW Lift Neue Elektronische Wege Steuerungsbau GmbH" />
@@ -13655,6 +13671,7 @@
   <VendorMapping mac_prefix="1C4593" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="1C4840" vendor_name="IMS Messsysteme GmbH" />
   <VendorMapping mac_prefix="1C48F9" vendor_name="GN Netcom A/S" />
+  <VendorMapping mac_prefix="1C497B" vendor_name="Gemtek Technology Co., Ltd." />
   <VendorMapping mac_prefix="1C4AF7" vendor_name="AMON INC" />
   <VendorMapping mac_prefix="1C4BB9" vendor_name="SMG ENTERPRISE, LLC" />
   <VendorMapping mac_prefix="1C4BD6" vendor_name="AzureWave" />
@@ -13690,7 +13707,7 @@
   <VendorMapping mac_prefix="1C83B0" vendor_name="Linked IP GmbH" />
   <VendorMapping mac_prefix="1C8464" vendor_name="FORMOSA WIRELESS COMMUNICATION CORP." />
   <VendorMapping mac_prefix="1C86AD" vendor_name="MCT CO., LTD." />
-  <VendorMapping mac_prefix="1C872C" vendor_name="" />
+  <VendorMapping mac_prefix="1C872C" vendor_name="ASUSTek  COMPUTER INC" />
   <VendorMapping mac_prefix="1C8E5C" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="1C8E8E" vendor_name="DB Communication  Systems Co., ltd." />
   <VendorMapping mac_prefix="1C8F8A" vendor_name="Phase Motion Control SpA" />
@@ -13771,6 +13788,7 @@
   <VendorMapping mac_prefix="203706" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="2037BC" vendor_name="Kuipers Electronic Engineering BV" />
   <VendorMapping mac_prefix="203A07" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="203D66" vendor_name="ARRIS GROUP, INC." />
   <VendorMapping mac_prefix="204005" vendor_name="feno GmbH" />
   <VendorMapping mac_prefix="20415A" vendor_name="Smarteh d.o.o." />
   <VendorMapping mac_prefix="20443A" vendor_name="Schneider Electric Asia Pacific Ltd" />
@@ -13817,6 +13835,7 @@
   <VendorMapping mac_prefix="20934D" vendor_name="Fujian Star-net Communication Co., Ltd" />
   <VendorMapping mac_prefix="209AE9" vendor_name="Volacomm Co., Ltd" />
   <VendorMapping mac_prefix="209BA5" vendor_name="JIAXING GLEAD Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="209BCD" vendor_name="Apple" />
   <VendorMapping mac_prefix="20A2E4" vendor_name="Apple" />
   <VendorMapping mac_prefix="20A2E7" vendor_name="Lee-Dickens Ltd" />
   <VendorMapping mac_prefix="20A787" vendor_name="Bointec Taiwan Corporation Limited" />
@@ -13833,6 +13852,7 @@
   <VendorMapping mac_prefix="20C06D" vendor_name="SHENZHEN SPACETEK TECHNOLOGY CO.,LTD" />
   <VendorMapping mac_prefix="20C1AF" vendor_name="i Wit Digital Co., Limited" />
   <VendorMapping mac_prefix="20C38F" vendor_name="Texas Instruments Inc" />
+  <VendorMapping mac_prefix="20C3A4" vendor_name="RetailNext" />
   <VendorMapping mac_prefix="20C60D" vendor_name="Shanghai annijie Information technology Co.,LTD" />
   <VendorMapping mac_prefix="20C6EB" vendor_name="Panasonic Corporation AVC Networks Company" />
   <VendorMapping mac_prefix="20C8B3" vendor_name="SHENZHEN BUL-TECH CO.,LTD." />
@@ -13840,6 +13860,7 @@
   <VendorMapping mac_prefix="20CD39" vendor_name="Texas Instruments, Inc" />
   <VendorMapping mac_prefix="20CEC4" vendor_name="Peraso Technologies" />
   <VendorMapping mac_prefix="20CF30" vendor_name="ASUSTek COMPUTER INC." />
+  <VendorMapping mac_prefix="20D160" vendor_name="" />
   <VendorMapping mac_prefix="20D21F" vendor_name="Wincal Technology Corp." />
   <VendorMapping mac_prefix="20D390" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="20D5AB" vendor_name="Korea Infocom Co.,Ltd." />
@@ -13883,6 +13904,7 @@
   <VendorMapping mac_prefix="241B44" vendor_name="Hangzhou Tuners Electronics Co., Ltd" />
   <VendorMapping mac_prefix="241C04" vendor_name="SHENZHEN JEHE TECHNOLOGY DEVELOPMENT CO., LTD." />
   <VendorMapping mac_prefix="241F2C" vendor_name="Calsys, Inc." />
+  <VendorMapping mac_prefix="241FA0" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="2421AB" vendor_name="Sony Ericsson Mobile Communications" />
   <VendorMapping mac_prefix="24240E" vendor_name="Apple" />
   <VendorMapping mac_prefix="242642" vendor_name="SHARP Corporation." />
@@ -13907,6 +13929,7 @@
   <VendorMapping mac_prefix="24694A" vendor_name="Jasmine Systems Inc." />
   <VendorMapping mac_prefix="2469A5" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="246AAB" vendor_name="IT-IS International" />
+  <VendorMapping mac_prefix="246C8A" vendor_name="YUKAI Engineering" />
   <VendorMapping mac_prefix="246E96" vendor_name="Dell Inc." />
   <VendorMapping mac_prefix="247189" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="247260" vendor_name="IOTTECH Corp" />
@@ -13956,6 +13979,7 @@
   <VendorMapping mac_prefix="24D13F" vendor_name="MEXUS CO.,LTD" />
   <VendorMapping mac_prefix="24D2CC" vendor_name="SmartDrive Systems Inc." />
   <VendorMapping mac_prefix="24D921" vendor_name="Avaya, Inc" />
+  <VendorMapping mac_prefix="24DA9B" vendor_name="Motorola Mobility LLC, a Lenovo Company" />
   <VendorMapping mac_prefix="24DAB6" vendor_name="Sistemas de Gesti&#52376;n Energ&#52309;tica S.A. de C.V" />
   <VendorMapping mac_prefix="24DBAC" vendor_name="Shenzhen Huawei Communication Technologies Co., Ltd" />
   <VendorMapping mac_prefix="24DBAD" vendor_name="ShopperTrak RCT Corporation" />
@@ -13981,6 +14005,7 @@
   <VendorMapping mac_prefix="280B5C" vendor_name="Apple" />
   <VendorMapping mac_prefix="280CB8" vendor_name="Mikrosay Yazilim ve Elektronik A.S." />
   <VendorMapping mac_prefix="280DFC" vendor_name="Sony Computer Entertainment Inc." />
+  <VendorMapping mac_prefix="280E8B" vendor_name="Beijing Spirit Technology Development Co., Ltd." />
   <VendorMapping mac_prefix="28107B" vendor_name="D-Link International" />
   <VendorMapping mac_prefix="281471" vendor_name="Lantis co., LTD." />
   <VendorMapping mac_prefix="28162E" vendor_name="2Wire" />
@@ -14067,6 +14092,7 @@
   <VendorMapping mac_prefix="28C718" vendor_name="Altierre" />
   <VendorMapping mac_prefix="28C7CE" vendor_name="Cisco" />
   <VendorMapping mac_prefix="28C825" vendor_name="DellKing Industrial Co., Ltd" />
+  <VendorMapping mac_prefix="28C87A" vendor_name="Pace plc" />
   <VendorMapping mac_prefix="28C914" vendor_name="Taimag Corporation" />
   <VendorMapping mac_prefix="28CBEB" vendor_name="One" />
   <VendorMapping mac_prefix="28CC01" vendor_name="Samsung Electronics Co.,Ltd" />
@@ -14111,6 +14137,7 @@
   <VendorMapping mac_prefix="2C010B" vendor_name="NASCENT Technology, LLC - RemKon" />
   <VendorMapping mac_prefix="2C0623" vendor_name="Win Leader Inc." />
   <VendorMapping mac_prefix="2C073C" vendor_name="DEVLINE LIMITED" />
+  <VendorMapping mac_prefix="2C081C" vendor_name="OVH" />
   <VendorMapping mac_prefix="2C10C1" vendor_name="Nintendo Co., Ltd." />
   <VendorMapping mac_prefix="2C18AE" vendor_name="Trend Electronics Co., Ltd." />
   <VendorMapping mac_prefix="2C1984" vendor_name="IDN Telecom, Inc." />
@@ -14118,6 +14145,7 @@
   <VendorMapping mac_prefix="2C1EEA" vendor_name="AERODEV" />
   <VendorMapping mac_prefix="2C1F23" vendor_name="Apple" />
   <VendorMapping mac_prefix="2C2172" vendor_name="Juniper Networks" />
+  <VendorMapping mac_prefix="2C233A" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="2C245F" vendor_name="Babolat VS" />
   <VendorMapping mac_prefix="2C265F" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="2C26C5" vendor_name="zte corporation" />
@@ -14204,6 +14232,7 @@
   <VendorMapping mac_prefix="2CCD27" vendor_name="Precor Inc" />
   <VendorMapping mac_prefix="2CCD43" vendor_name="Summit Technology Group" />
   <VendorMapping mac_prefix="2CCD69" vendor_name="Aqavi.com" />
+  <VendorMapping mac_prefix="2CCF58" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="2CD05A" vendor_name="Liteon Technology Corporation" />
   <VendorMapping mac_prefix="2CD141" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="2CD1DA" vendor_name="Sanjole, Inc." />
@@ -14240,6 +14269,7 @@
   <VendorMapping mac_prefix="301966" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="301A28" vendor_name="Mako Networks Ltd" />
   <VendorMapping mac_prefix="30215B" vendor_name="Shenzhen Ostar Display Electronic Co.,Ltd" />
+  <VendorMapping mac_prefix="3029BE" vendor_name="Shanghai MRDcom Co.,Ltd" />
   <VendorMapping mac_prefix="302DE8" vendor_name="JDA, LLC (JDA Systems)" />
   <VendorMapping mac_prefix="303294" vendor_name="W-IE-NE-R Plein  Baus GmbH" />
   <VendorMapping mac_prefix="3032D4" vendor_name="Hanilstm Co., Ltd." />
@@ -14266,6 +14296,7 @@
   <VendorMapping mac_prefix="3057AC" vendor_name="IRLAB LTD." />
   <VendorMapping mac_prefix="30595B" vendor_name="streamnow AG" />
   <VendorMapping mac_prefix="3059B7" vendor_name="Microsoft" />
+  <VendorMapping mac_prefix="305A3A" vendor_name="ASUSTek COMPUTER INC." />
   <VendorMapping mac_prefix="305D38" vendor_name="Beissbarth" />
   <VendorMapping mac_prefix="306023" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="306112" vendor_name="PAV GmbH" />
@@ -14295,6 +14326,7 @@
   <VendorMapping mac_prefix="3090AB" vendor_name="Apple" />
   <VendorMapping mac_prefix="30918F" vendor_name="Technicolor" />
   <VendorMapping mac_prefix="3092F6" vendor_name="SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD" />
+  <VendorMapping mac_prefix="3095E3" vendor_name="SHANGHAI SIMCOM LIMITED" />
   <VendorMapping mac_prefix="309BAD" vendor_name="BBK Electronics Corp., Ltd.," />
   <VendorMapping mac_prefix="30A243" vendor_name="Shenzhen Prifox Innovation Technology Co., Ltd." />
   <VendorMapping mac_prefix="30A8DB" vendor_name="Sony Mobile Communications AB" />
@@ -14316,6 +14348,7 @@
   <VendorMapping mac_prefix="30D587" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="30D6C9" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="30DE86" vendor_name="Cedac Software S.r.l." />
+  <VendorMapping mac_prefix="30E090" vendor_name="Linctronix Ltd," />
   <VendorMapping mac_prefix="30E48E" vendor_name="Vodafone UK" />
   <VendorMapping mac_prefix="30E4DB" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="30EB25" vendor_name="INTEK DIGITAL" />
@@ -14325,6 +14358,7 @@
   <VendorMapping mac_prefix="30F33A" vendor_name="+plugg srl" />
   <VendorMapping mac_prefix="30F42F" vendor_name="ESP" />
   <VendorMapping mac_prefix="30F70D" vendor_name="Cisco Systems" />
+  <VendorMapping mac_prefix="30F772" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="30F7C5" vendor_name="Apple" />
   <VendorMapping mac_prefix="30F7D7" vendor_name="Thread Technology Co., Ltd" />
   <VendorMapping mac_prefix="30F9ED" vendor_name="Sony Corporation" />
@@ -14359,7 +14393,7 @@
   <VendorMapping mac_prefix="3431C4" vendor_name="AVM GmbH" />
   <VendorMapping mac_prefix="34363B" vendor_name="Apple" />
   <VendorMapping mac_prefix="3438AF" vendor_name="Inlab Software GmbH" />
-  <VendorMapping mac_prefix="343D98" vendor_name="Fujian JinQianMao Electronic Technology Co.,Ltd." />
+  <VendorMapping mac_prefix="343D98" vendor_name="JinQianMao Technology Co.,Ltd." />
   <VendorMapping mac_prefix="3440B5" vendor_name="IBM" />
   <VendorMapping mac_prefix="34466F" vendor_name="HiTEM Engineering" />
   <VendorMapping mac_prefix="344B3D" vendor_name="Fiberhome Telecommunication Tech.Co.,Ltd." />
@@ -14472,12 +14506,14 @@
   <VendorMapping mac_prefix="34FC6F" vendor_name="ALCEA" />
   <VendorMapping mac_prefix="34FCEF" vendor_name="LG Electronics" />
   <VendorMapping mac_prefix="380195" vendor_name="Samsung Electronics Co.,Ltd" />
-  <VendorMapping mac_prefix="380197" vendor_name="Toshiba Samsung Storage Technolgoy Korea Corporation" />
+  <VendorMapping mac_prefix="380197" vendor_name="TSST Global,Inc" />
+  <VendorMapping mac_prefix="380546" vendor_name="Foctek Photonics, Inc." />
   <VendorMapping mac_prefix="3806B4" vendor_name="A.D.C. GmbH" />
   <VendorMapping mac_prefix="3808FD" vendor_name="Silca Spa" />
   <VendorMapping mac_prefix="3809A4" vendor_name="Firefly Integrations" />
   <VendorMapping mac_prefix="380A0A" vendor_name="Sky-City Communication and Electronics Limited Company" />
   <VendorMapping mac_prefix="380A94" vendor_name="Samsung Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="380AAB" vendor_name="Formlabs" />
   <VendorMapping mac_prefix="380B40" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="380DD4" vendor_name="Primax Electronics LTD." />
   <VendorMapping mac_prefix="380E7B" vendor_name="V.P.S. Thai Co., Ltd" />
@@ -14487,7 +14523,10 @@
   <VendorMapping mac_prefix="381766" vendor_name="PROMZAKAZ LTD." />
   <VendorMapping mac_prefix="38192F" vendor_name="Nokia Corporation" />
   <VendorMapping mac_prefix="381C1A" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="381C23" vendor_name="Hilan Technology CO.,LTD" />
   <VendorMapping mac_prefix="381C4A" vendor_name="SIMCom Wireless Solutions Co.,Ltd." />
+  <VendorMapping mac_prefix="382056" vendor_name="Cisco Systems" />
+  <VendorMapping mac_prefix="382187" vendor_name="Midea Group Co., Ltd." />
   <VendorMapping mac_prefix="38229D" vendor_name="Pirelli Tyre S.p.A." />
   <VendorMapping mac_prefix="3822D6" vendor_name="H3C Technologies Co., Limited" />
   <VendorMapping mac_prefix="38262B" vendor_name="UTran Technology" />
@@ -14507,12 +14546,14 @@
   <VendorMapping mac_prefix="384608" vendor_name="ZTE Corporation" />
   <VendorMapping mac_prefix="38484C" vendor_name="Apple" />
   <VendorMapping mac_prefix="384B76" vendor_name="AIRTAME ApS" />
+  <VendorMapping mac_prefix="384C90" vendor_name="ARRIS GROUP, INC." />
   <VendorMapping mac_prefix="384FF0" vendor_name="Azurewave Technologies, Inc." />
   <VendorMapping mac_prefix="38521A" vendor_name="Alcatel-Lucent 7705" />
   <VendorMapping mac_prefix="38580C" vendor_name="Panaccess Systems GmbH" />
   <VendorMapping mac_prefix="3859F8" vendor_name="MindMade sp. z o.o." />
   <VendorMapping mac_prefix="3859F9" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="385AA8" vendor_name="Beijing Zhongdun Security Technology Development Co." />
+  <VendorMapping mac_prefix="385F66" vendor_name="Cisco SPVTG" />
   <VendorMapping mac_prefix="385FC3" vendor_name="Yu Jeong System, Co.Ltd" />
   <VendorMapping mac_prefix="386077" vendor_name="PEGATRON CORPORATION" />
   <VendorMapping mac_prefix="3863BB" vendor_name="Hewlett Packard" />
@@ -14528,6 +14569,7 @@
   <VendorMapping mac_prefix="3889DC" vendor_name="Opticon Sensors Europe B.V." />
   <VendorMapping mac_prefix="388AB7" vendor_name="ITC Networks" />
   <VendorMapping mac_prefix="388EE7" vendor_name="Fanhattan LLC" />
+  <VendorMapping mac_prefix="3891D5" vendor_name="Hangzhou H3C Technologies Co., Limited" />
   <VendorMapping mac_prefix="3891FB" vendor_name="Xenox Holding BV" />
   <VendorMapping mac_prefix="389496" vendor_name="Samsung Elec Co.,Ltd" />
   <VendorMapping mac_prefix="389592" vendor_name="Beijing Tendyron Corporation" />
@@ -14556,6 +14598,7 @@
   <VendorMapping mac_prefix="38C9A9" vendor_name="SMART High Reliability Solutions, Inc." />
   <VendorMapping mac_prefix="38CA97" vendor_name="Contour Design LLC" />
   <VendorMapping mac_prefix="38D135" vendor_name="EasyIO Corporation Sdn. Bhd." />
+  <VendorMapping mac_prefix="38D40B" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="38D82F" vendor_name="zte corporation" />
   <VendorMapping mac_prefix="38DBBB" vendor_name="Sunbow Telecom Co., Ltd." />
   <VendorMapping mac_prefix="38DE60" vendor_name="Mohlenhoff GmbH" />
@@ -14571,6 +14614,7 @@
   <VendorMapping mac_prefix="38EE9D" vendor_name="Anedo Ltd." />
   <VendorMapping mac_prefix="38F098" vendor_name="Vapor Stone Rail Systems" />
   <VendorMapping mac_prefix="38F33F" vendor_name="TATSUNO CORPORATION" />
+  <VendorMapping mac_prefix="38F557" vendor_name="JOLATA, INC." />
   <VendorMapping mac_prefix="38F597" vendor_name="home2net GmbH" />
   <VendorMapping mac_prefix="38F708" vendor_name="National Resource Management, Inc." />
   <VendorMapping mac_prefix="38F889" vendor_name="Huawei Technologies Co., Ltd" />
@@ -14644,8 +14688,10 @@
   <VendorMapping mac_prefix="3C7437" vendor_name="RIM" />
   <VendorMapping mac_prefix="3C754A" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="3C77E6" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
+  <VendorMapping mac_prefix="3C7A8A" vendor_name="ARRIS GROUP, INC." />
   <VendorMapping mac_prefix="3C7DB1" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="3C81D8" vendor_name="SAGEMCOM SAS" />
+  <VendorMapping mac_prefix="3C831E" vendor_name="CKD Corporation" />
   <VendorMapping mac_prefix="3C8375" vendor_name="Microsoft Corporation" />
   <VendorMapping mac_prefix="3C83B5" vendor_name="Advance Vision Electronics Co. Ltd." />
   <VendorMapping mac_prefix="3C86A8" vendor_name="Sangshin elecom .co,, LTD" />
@@ -14654,6 +14700,7 @@
   <VendorMapping mac_prefix="3C8AE5" vendor_name="Tensun Information Technology(Hangzhou) Co.,LTD" />
   <VendorMapping mac_prefix="3C8BFE" vendor_name="Samsung Electronics" />
   <VendorMapping mac_prefix="3C8C40" vendor_name="Hangzhou H3C Technologies Co., Limited" />
+  <VendorMapping mac_prefix="3C8CF8" vendor_name="TRENDnet, Inc." />
   <VendorMapping mac_prefix="3C912B" vendor_name="Vexata Inc" />
   <VendorMapping mac_prefix="3C9157" vendor_name="Hangzhou Yulong Conmunication Co.,Ltd" />
   <VendorMapping mac_prefix="3C9174" vendor_name="ALONG COMMUNICATION TECHNOLOGY" />
@@ -14666,6 +14713,7 @@
   <VendorMapping mac_prefix="3CA10D" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="3CA315" vendor_name="Bless Information  Communications Co., Ltd" />
   <VendorMapping mac_prefix="3CA31A" vendor_name="Oilfind International LLC" />
+  <VendorMapping mac_prefix="3CA348" vendor_name="vivo Mobile Communication Co., Ltd." />
   <VendorMapping mac_prefix="3CA72B" vendor_name="MRV Communications (Networks) LTD" />
   <VendorMapping mac_prefix="3CA82A" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="3CA9F4" vendor_name="Intel Corporate" />
@@ -14728,6 +14776,7 @@
   <VendorMapping mac_prefix="4016FA" vendor_name="EKM Metering" />
   <VendorMapping mac_prefix="4018B1" vendor_name="Aerohive Networks Inc." />
   <VendorMapping mac_prefix="4018D7" vendor_name="Smartronix, Inc." />
+  <VendorMapping mac_prefix="401B5F" vendor_name="Weifang GoerTek Electronics Co., Ltd." />
   <VendorMapping mac_prefix="401D59" vendor_name="Biometric Associates, LP" />
   <VendorMapping mac_prefix="4022ED" vendor_name="Digital Projection Ltd" />
   <VendorMapping mac_prefix="4025C2" vendor_name="Intel Corporate" />
@@ -14741,8 +14790,10 @@
   <VendorMapping mac_prefix="40336C" vendor_name="Godrej  Boyce Mfg. co. ltd" />
   <VendorMapping mac_prefix="4037AD" vendor_name="Macro Image Technology, Inc." />
   <VendorMapping mac_prefix="403CFC" vendor_name="Apple" />
+  <VendorMapping mac_prefix="403DEC" vendor_name="HUMAX Co., Ltd." />
   <VendorMapping mac_prefix="404022" vendor_name="ZIV" />
   <VendorMapping mac_prefix="40406B" vendor_name="Icomera" />
+  <VendorMapping mac_prefix="4040A7" vendor_name="Sony Mobile Communications AB" />
   <VendorMapping mac_prefix="4045DA" vendor_name="Spreadtrum Communications (Shanghai) Co., Ltd." />
   <VendorMapping mac_prefix="404A03" vendor_name="ZyXEL Communications Corporation" />
   <VendorMapping mac_prefix="404A18" vendor_name="Addrek Smart Solutions" />
@@ -14751,6 +14802,7 @@
   <VendorMapping mac_prefix="4050E0" vendor_name="Milton Security Group LLC" />
   <VendorMapping mac_prefix="40516C" vendor_name="Grandex International Corporation" />
   <VendorMapping mac_prefix="40520D" vendor_name="Pico Technology" />
+  <VendorMapping mac_prefix="4054E4" vendor_name="Wearsafe Labs Inc" />
   <VendorMapping mac_prefix="405539" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="40560C" vendor_name="In Home Displays Ltd" />
   <VendorMapping mac_prefix="405A9B" vendor_name="ANOVO" />
@@ -14824,6 +14876,7 @@
   <VendorMapping mac_prefix="40D559" vendor_name="MICRO S.E.R.I." />
   <VendorMapping mac_prefix="40D855" vendor_name="IEEE REGISTRATION AUTHORITY - Please see IAB public listing for more information." />
   <VendorMapping mac_prefix="40E230" vendor_name="AzureWave Technologies, Inc." />
+  <VendorMapping mac_prefix="40E3D6" vendor_name="Aruba Networks" />
   <VendorMapping mac_prefix="40E730" vendor_name="DEY Storage Systems, Inc." />
   <VendorMapping mac_prefix="40E793" vendor_name="Shenzhen Siviton Technology Co.,Ltd" />
   <VendorMapping mac_prefix="40EACE" vendor_name="FOUNDER BROADBAND NETWORK SERVICE CO.,LTD" />
@@ -14844,6 +14897,7 @@
   <VendorMapping mac_prefix="441319" vendor_name="WKK TECHNOLOGY LTD." />
   <VendorMapping mac_prefix="44184F" vendor_name="Fitview" />
   <VendorMapping mac_prefix="4419B6" vendor_name="Hangzhou Hikvision Digital Technology Co.,Ltd." />
+  <VendorMapping mac_prefix="441CA8" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="441E91" vendor_name="ARVIDA Intelligent Electronics Technology  Co.,Ltd." />
   <VendorMapping mac_prefix="441EA1" vendor_name="Hewlett-Packard Company" />
   <VendorMapping mac_prefix="4423AA" vendor_name="Farmage Co., Ltd." />
@@ -14894,6 +14948,7 @@
   <VendorMapping mac_prefix="446D6C" vendor_name="Samsung Elec Co.,Ltd" />
   <VendorMapping mac_prefix="44700B" vendor_name="IFFU" />
   <VendorMapping mac_prefix="447098" vendor_name="MING HONG TECHNOLOGY (SHEN ZHEN) LIMITED" />
+  <VendorMapping mac_prefix="4473D6" vendor_name="Logitech" />
   <VendorMapping mac_prefix="44746C" vendor_name="Sony Mobile Communications AB" />
   <VendorMapping mac_prefix="447BC4" vendor_name="DualShine Technology(SZ)Co.,Ltd" />
   <VendorMapping mac_prefix="447C7F" vendor_name="Innolight Technology Corporation" />
@@ -14926,6 +14981,7 @@
   <VendorMapping mac_prefix="44AA27" vendor_name="udworks Co., Ltd." />
   <VendorMapping mac_prefix="44AAE8" vendor_name="Nanotec Electronic GmbH  Co. KG" />
   <VendorMapping mac_prefix="44ADD9" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="44B32D" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="44B382" vendor_name="Kuang-chi Institute of Advanced Technology" />
   <VendorMapping mac_prefix="44C15C" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="44C233" vendor_name="Guangzhou Comet Technology Development Co.Ltd" />
@@ -14967,6 +15023,7 @@
   <VendorMapping mac_prefix="480C49" vendor_name="NAKAYO TELECOMMUNICATIONS,INC" />
   <VendorMapping mac_prefix="480FCF" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="481249" vendor_name="Luxcom Technologies Inc." />
+  <VendorMapping mac_prefix="48137E" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="4813F3" vendor_name="BBK Electronics Corp., Ltd." />
   <VendorMapping mac_prefix="48174C" vendor_name="MicroPower technologies" />
   <VendorMapping mac_prefix="481842" vendor_name="Shanghai Winaas Co. Equipment Co. Ltd." />
@@ -15014,6 +15071,7 @@
   <VendorMapping mac_prefix="488E42" vendor_name="DIGALOG GmbH" />
   <VendorMapping mac_prefix="489153" vendor_name="Weinmann Ger&#52292;te f&#52404;r Medizin GmbH + Co. KG" />
   <VendorMapping mac_prefix="4891F6" vendor_name="Shenzhen Reach software technology CO.,LTD" />
+  <VendorMapping mac_prefix="489A42" vendor_name="Technomate Ltd" />
   <VendorMapping mac_prefix="489BE2" vendor_name="SCI Innovations Ltd" />
   <VendorMapping mac_prefix="489D18" vendor_name="Flashbay Limited" />
   <VendorMapping mac_prefix="489D24" vendor_name="Research In Motion" />
@@ -15024,10 +15082,12 @@
   <VendorMapping mac_prefix="48AA5D" vendor_name="Store Electronic Systems" />
   <VendorMapping mac_prefix="48B253" vendor_name="Marketaxess Corporation" />
   <VendorMapping mac_prefix="48B5A7" vendor_name="Glory Horse Industries Ltd." />
+  <VendorMapping mac_prefix="48B620" vendor_name="ROLI Ltd." />
   <VendorMapping mac_prefix="48B8DE" vendor_name="HOMEWINS TECHNOLOGY CO.,LTD." />
   <VendorMapping mac_prefix="48B977" vendor_name="PulseOn Oy" />
   <VendorMapping mac_prefix="48B9C2" vendor_name="Teletics Inc." />
   <VendorMapping mac_prefix="48BE2D" vendor_name="Symanitron" />
+  <VendorMapping mac_prefix="48BF74" vendor_name="Baicells Technologies Co.,LTD" />
   <VendorMapping mac_prefix="48C093" vendor_name="Xirrus, Inc." />
   <VendorMapping mac_prefix="48C1AC" vendor_name="PLANTRONICS, INC." />
   <VendorMapping mac_prefix="48C862" vendor_name="Simo Wireless,Inc." />
@@ -15116,7 +15176,7 @@
   <VendorMapping mac_prefix="4C72B9" vendor_name="Pegatron Corporation" />
   <VendorMapping mac_prefix="4C7367" vendor_name="Genius Bytes Software Solutions GmbH" />
   <VendorMapping mac_prefix="4C73A5" vendor_name="KOVE" />
-  <VendorMapping mac_prefix="4C7403" vendor_name="Mundo Reader (bq)" />
+  <VendorMapping mac_prefix="4C7403" vendor_name="BQ" />
   <VendorMapping mac_prefix="4C7625" vendor_name="Dell Inc." />
   <VendorMapping mac_prefix="4C774F" vendor_name="Embedded Wireless Labs" />
   <VendorMapping mac_prefix="4C7897" vendor_name="Arrowhead Alarm Products Ltd" />
@@ -15263,6 +15323,7 @@
   <VendorMapping mac_prefix="50A4C8" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="50A6E3" vendor_name="David Clark Company" />
   <VendorMapping mac_prefix="50A715" vendor_name="Aboundi, Inc." />
+  <VendorMapping mac_prefix="50A72B" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="50A733" vendor_name="Ruckus Wireless" />
   <VendorMapping mac_prefix="50ABBF" vendor_name="Hoseo Telecom" />
   <VendorMapping mac_prefix="50ADD5" vendor_name="Dynalec Corporation" />
@@ -15283,6 +15344,7 @@
   <VendorMapping mac_prefix="50CE75" vendor_name="Measy Electronics Ltd" />
   <VendorMapping mac_prefix="50D274" vendor_name="Steffes Corporation" />
   <VendorMapping mac_prefix="50D6D7" vendor_name="Takahata Precision" />
+  <VendorMapping mac_prefix="50DF95" vendor_name="Lytx" />
   <VendorMapping mac_prefix="50E0C7" vendor_name="TurControlSystme AG" />
   <VendorMapping mac_prefix="50E14A" vendor_name="" />
   <VendorMapping mac_prefix="50E549" vendor_name="GIGA-BYTE TECHNOLOGY CO.,LTD." />
@@ -15295,6 +15357,7 @@
   <VendorMapping mac_prefix="50F43C" vendor_name="Leeo Inc" />
   <VendorMapping mac_prefix="50F520" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="50F61A" vendor_name="Kunshan JADE Technologies co., Ltd." />
+  <VendorMapping mac_prefix="50FA84" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="50FAAB" vendor_name="L-tek d.o.o." />
   <VendorMapping mac_prefix="50FC30" vendor_name="Treehouse Labs" />
   <VendorMapping mac_prefix="50FC9F" vendor_name="Samsung Electronics Co.,Ltd" />
@@ -15310,6 +15373,7 @@
   <VendorMapping mac_prefix="541473" vendor_name="Wingtech Group (HongKong) Limited" />
   <VendorMapping mac_prefix="541B5D" vendor_name="Techno-Innov" />
   <VendorMapping mac_prefix="541DFB" vendor_name="Freestyle Energy Ltd" />
+  <VendorMapping mac_prefix="541E56" vendor_name="juniper networks" />
   <VendorMapping mac_prefix="541FD5" vendor_name="Advantage Electronics" />
   <VendorMapping mac_prefix="542018" vendor_name="Tely Labs" />
   <VendorMapping mac_prefix="542160" vendor_name="Resolution Products" />
@@ -15335,6 +15399,7 @@
   <VendorMapping mac_prefix="544A05" vendor_name="wenglor sensoric gmbh" />
   <VendorMapping mac_prefix="544A16" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="544E45" vendor_name="" />
+  <VendorMapping mac_prefix="544E90" vendor_name="Apple" />
   <VendorMapping mac_prefix="545146" vendor_name="AMG Systems Ltd." />
   <VendorMapping mac_prefix="5453ED" vendor_name="Sony Corporation" />
   <VendorMapping mac_prefix="545414" vendor_name="Digital RF Corea, Inc" />
@@ -15373,6 +15438,7 @@
   <VendorMapping mac_prefix="54A050" vendor_name="ASUSTek COMPUTER INC." />
   <VendorMapping mac_prefix="54A274" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="54A31B" vendor_name="Shenzhen Linkworld Technology Co,.LTD" />
+  <VendorMapping mac_prefix="54A3FA" vendor_name="BQT Solutions (Australia)Pty Ltd" />
   <VendorMapping mac_prefix="54A51B" vendor_name="Shenzhen Huawei Communication Technologies Co., Ltd" />
   <VendorMapping mac_prefix="54A54B" vendor_name="NSC Communications Siberia Ltd" />
   <VendorMapping mac_prefix="54A619" vendor_name="Alcatel-Lucent Shanghai Bell Co., Ltd" />
@@ -15381,6 +15447,7 @@
   <VendorMapping mac_prefix="54B620" vendor_name="SUHDOL EC Co.Ltd." />
   <VendorMapping mac_prefix="54B753" vendor_name="Hunan Fenghui Yinjia Science And Technology Co.,Ltd" />
   <VendorMapping mac_prefix="54B80A" vendor_name="D-Link International" />
+  <VendorMapping mac_prefix="54BE53" vendor_name="zte corporation" />
   <VendorMapping mac_prefix="54BEF7" vendor_name="PEGATRON CORPORATION" />
   <VendorMapping mac_prefix="54C80F" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD." />
   <VendorMapping mac_prefix="54CD10" vendor_name="Panasonic Mobile Communications Co.,Ltd." />
@@ -15410,6 +15477,7 @@
   <VendorMapping mac_prefix="54FA3E" vendor_name="Samsung Electronics Co.,LTD" />
   <VendorMapping mac_prefix="54FB58" vendor_name="WISEWARE, Lda" />
   <VendorMapping mac_prefix="54FDBF" vendor_name="Scheidt  Bachmann GmbH" />
+  <VendorMapping mac_prefix="54FF82" vendor_name="Davit Solution co." />
   <VendorMapping mac_prefix="54FFCF" vendor_name="Mopria Alliance" />
   <VendorMapping mac_prefix="5804CB" vendor_name="Tianjin Huisun Technology Co.,Ltd." />
   <VendorMapping mac_prefix="580528" vendor_name="LABRIS NETWORKS" />
@@ -15444,6 +15512,7 @@
   <VendorMapping mac_prefix="584704" vendor_name="Shenzhen Webridge Technology Co.,Ltd" />
   <VendorMapping mac_prefix="584822" vendor_name="Sony Mobile Communications AB" />
   <VendorMapping mac_prefix="5848C0" vendor_name="COFLEC" />
+  <VendorMapping mac_prefix="584925" vendor_name="E3 Enterprise" />
   <VendorMapping mac_prefix="58493B" vendor_name="Palo Alto Networks" />
   <VendorMapping mac_prefix="5849BA" vendor_name="Chitai Electronic Corp." />
   <VendorMapping mac_prefix="584C19" vendor_name="Chongqing Guohong Technology Development Company Limited" />
@@ -15480,6 +15549,7 @@
   <VendorMapping mac_prefix="58856E" vendor_name="QSC AG" />
   <VendorMapping mac_prefix="58874C" vendor_name="LITE-ON CLEAN ENERGY TECHNOLOGY CORP." />
   <VendorMapping mac_prefix="5887E2" vendor_name="Shenzhen Coship Electronics Co., Ltd." />
+  <VendorMapping mac_prefix="588BF3" vendor_name="ZyXEL Communications Corporation" />
   <VendorMapping mac_prefix="588D09" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="5891CF" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="58920D" vendor_name="Kinetic Avionics Limited" />
@@ -15487,6 +15557,7 @@
   <VendorMapping mac_prefix="58946B" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="5894CF" vendor_name="Vertex Standard LMR, Inc." />
   <VendorMapping mac_prefix="58971E" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="5897BD" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="589835" vendor_name="Technicolor" />
   <VendorMapping mac_prefix="58986F" vendor_name="Revolution Display" />
   <VendorMapping mac_prefix="589B0B" vendor_name="Shineway Technologies, Inc." />
@@ -15496,6 +15567,7 @@
   <VendorMapping mac_prefix="58A839" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="58B035" vendor_name="Apple" />
   <VendorMapping mac_prefix="58B0D4" vendor_name="ZuniData Systems Inc." />
+  <VendorMapping mac_prefix="58B633" vendor_name="Ruckus Wireless" />
   <VendorMapping mac_prefix="58B961" vendor_name="SOLEM Electronique" />
   <VendorMapping mac_prefix="58B9E1" vendor_name="Crystalfontz America, Inc." />
   <VendorMapping mac_prefix="58BC27" vendor_name="CISCO SYSTEMS, INC." />
@@ -15583,6 +15655,7 @@
   <VendorMapping mac_prefix="5C6F4F" vendor_name="S.A. SISTEL" />
   <VendorMapping mac_prefix="5C7757" vendor_name="Haivision Network Video" />
   <VendorMapping mac_prefix="5C7D5E" vendor_name="Huawei Technologies Co., Ltd" />
+  <VendorMapping mac_prefix="5C838F" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="5C8486" vendor_name="Brightsource Industries Israel LTD" />
   <VendorMapping mac_prefix="5C864A" vendor_name="Secret Labs LLC" />
   <VendorMapping mac_prefix="5C8778" vendor_name="Cybertelbridge co.,ltd" />
@@ -15606,6 +15679,7 @@
   <VendorMapping mac_prefix="5CB395" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="5CB43E" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="5CB524" vendor_name="Sony Ericsson Mobile Communications AB" />
+  <VendorMapping mac_prefix="5CB559" vendor_name="CNEX Labs" />
   <VendorMapping mac_prefix="5CB6CC" vendor_name="NovaComm Technologies Inc." />
   <VendorMapping mac_prefix="5CB8CB" vendor_name="Allis Communications" />
   <VendorMapping mac_prefix="5CB901" vendor_name="Hewlett Packard" />
@@ -15617,6 +15691,7 @@
   <VendorMapping mac_prefix="5CCA32" vendor_name="Theben AG" />
   <VendorMapping mac_prefix="5CCCFF" vendor_name="Techroutes Network Pvt Ltd" />
   <VendorMapping mac_prefix="5CCEAD" vendor_name="CDYNE Corporation" />
+  <VendorMapping mac_prefix="5CCF7F" vendor_name="Espressif Inc." />
   <VendorMapping mac_prefix="5CD135" vendor_name="Xtreme Power Systems" />
   <VendorMapping mac_prefix="5CD2E4" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="5CD41B" vendor_name="UCZOON Technology Co., LTD" />
@@ -15707,6 +15782,7 @@
   <VendorMapping mac_prefix="60748D" vendor_name="Atmaca Elektronik" />
   <VendorMapping mac_prefix="607688" vendor_name="Velodyne" />
   <VendorMapping mac_prefix="6077E2" vendor_name="Samsung Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="607EDD" vendor_name="Microsoft Mobile Oy" />
   <VendorMapping mac_prefix="60812B" vendor_name="Custom Control Concepts" />
   <VendorMapping mac_prefix="6081F9" vendor_name="Helium Systems, Inc" />
   <VendorMapping mac_prefix="6083B2" vendor_name="GkWare e.K." />
@@ -15799,7 +15875,7 @@
   <VendorMapping mac_prefix="64167F" vendor_name="Polycom" />
   <VendorMapping mac_prefix="64168D" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="6416F0" vendor_name="Shehzhen Huawei Communication Technologies Co., Ltd." />
-  <VendorMapping mac_prefix="641A22" vendor_name="Heliospectra/Woodhill Investments" />
+  <VendorMapping mac_prefix="641A22" vendor_name="Heliospectra AB" />
   <VendorMapping mac_prefix="641C67" vendor_name="DIGIBRAS INDUSTRIA DO BRASILS/A" />
   <VendorMapping mac_prefix="641E81" vendor_name="Dowslake Microsystems" />
   <VendorMapping mac_prefix="64200C" vendor_name="Apple" />
@@ -15832,6 +15908,7 @@
   <VendorMapping mac_prefix="645601" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="6459F8" vendor_name="Vodafone Omnitel B.V." />
   <VendorMapping mac_prefix="645A04" vendor_name="Chicony Electronics Co., Ltd." />
+  <VendorMapping mac_prefix="645D92" vendor_name="SICHUAN TIANYI COMHEART TELECOMCO.,LTD" />
   <VendorMapping mac_prefix="645DD7" vendor_name="Shenzhen Lifesense Medical Electronics Co., Ltd." />
   <VendorMapping mac_prefix="645EBE" vendor_name="Yahoo! JAPAN" />
   <VendorMapping mac_prefix="645FFF" vendor_name="Nicolet Neuro" />
@@ -15867,6 +15944,7 @@
   <VendorMapping mac_prefix="64995D" vendor_name="LGE" />
   <VendorMapping mac_prefix="649968" vendor_name="Elentec" />
   <VendorMapping mac_prefix="6499A0" vendor_name="AG Elektronik AB" />
+  <VendorMapping mac_prefix="649A12" vendor_name="P2 Mobile Technologies Limited" />
   <VendorMapping mac_prefix="649ABE" vendor_name="Apple" />
   <VendorMapping mac_prefix="649B24" vendor_name="V Technology Co., Ltd." />
   <VendorMapping mac_prefix="649C81" vendor_name="Qualcomm iSkoot, Inc." />
@@ -15877,6 +15955,7 @@
   <VendorMapping mac_prefix="64A232" vendor_name="OOO Samlight" />
   <VendorMapping mac_prefix="64A341" vendor_name="Wonderlan (Beijing) Technology Co., Ltd." />
   <VendorMapping mac_prefix="64A3CB" vendor_name="Apple" />
+  <VendorMapping mac_prefix="64A651" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="64A769" vendor_name="HTC Corporation" />
   <VendorMapping mac_prefix="64A7DD" vendor_name="Avaya, Inc" />
   <VendorMapping mac_prefix="64A837" vendor_name="Juni Korea Co., Ltd" />
@@ -15891,6 +15970,7 @@
   <VendorMapping mac_prefix="64B9E8" vendor_name="Apple" />
   <VendorMapping mac_prefix="64BABD" vendor_name="SDJ Technologies, Inc." />
   <VendorMapping mac_prefix="64BC11" vendor_name="CombiQ AB" />
+  <VendorMapping mac_prefix="64C354" vendor_name="Avaya, Inc" />
   <VendorMapping mac_prefix="64C5AA" vendor_name="South African Broadcasting Corporation" />
   <VendorMapping mac_prefix="64C667" vendor_name="BarnesNoble" />
   <VendorMapping mac_prefix="64C6AF" vendor_name="AXERRA Networks Ltd" />
@@ -15932,6 +16012,7 @@
   <VendorMapping mac_prefix="680927" vendor_name="Apple" />
   <VendorMapping mac_prefix="680AD7" vendor_name="Yancheng Kecheng Optoelectronic Technology Co., Ltd" />
   <VendorMapping mac_prefix="68122D" vendor_name="Special Instrument Development Co., Ltd." />
+  <VendorMapping mac_prefix="681295" vendor_name="Lupine Lighting Systems GmbH" />
   <VendorMapping mac_prefix="681590" vendor_name="SAGEMCOM SAS" />
   <VendorMapping mac_prefix="6815D3" vendor_name="Zaklady Elektroniki i Mechaniki Precyzyjnej RG S.A." />
   <VendorMapping mac_prefix="681605" vendor_name="Systems And Electronic Development FZCO" />
@@ -15958,6 +16039,7 @@
   <VendorMapping mac_prefix="6851B7" vendor_name="PowerCloud Systems, Inc." />
   <VendorMapping mac_prefix="6854ED" vendor_name="Alcatel-Lucent - Nuage" />
   <VendorMapping mac_prefix="6854F5" vendor_name="enLighted Inc" />
+  <VendorMapping mac_prefix="6858C5" vendor_name="ZF TRW Automotive" />
   <VendorMapping mac_prefix="68597F" vendor_name="Alcatel Lucent" />
   <VendorMapping mac_prefix="685B35" vendor_name="Apple" />
   <VendorMapping mac_prefix="685B36" vendor_name="POWERTECH INDUSTRIAL CO., LTD." />
@@ -15986,6 +16068,7 @@
   <VendorMapping mac_prefix="6886A7" vendor_name="Cisco" />
   <VendorMapping mac_prefix="6886E7" vendor_name="Orbotix, Inc." />
   <VendorMapping mac_prefix="68876B" vendor_name="INQ Mobile Limited" />
+  <VendorMapping mac_prefix="6889C1" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="688AB5" vendor_name="EDP Servicos" />
   <VendorMapping mac_prefix="688F84" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="689234" vendor_name="Ruckus Wireless" />
@@ -16032,6 +16115,7 @@
   <VendorMapping mac_prefix="68DFDD" vendor_name="Xiaomi inc." />
   <VendorMapping mac_prefix="68E166" vendor_name="" />
   <VendorMapping mac_prefix="68E41F" vendor_name="Unglaube Identech GmbH" />
+  <VendorMapping mac_prefix="68E8EB" vendor_name="Linktel Technologies Co.,Ltd" />
   <VendorMapping mac_prefix="68EBAE" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="68EBC5" vendor_name="Angstrem Telecom" />
   <VendorMapping mac_prefix="68EC62" vendor_name="YODO Technology Corp. Ltd." />
@@ -16044,6 +16128,7 @@
   <VendorMapping mac_prefix="68F125" vendor_name="Data Controls Inc." />
   <VendorMapping mac_prefix="68F728" vendor_name="LCFC(HeFei) Electronics Technology co., ltd" />
   <VendorMapping mac_prefix="68F895" vendor_name="Redflow Limited" />
+  <VendorMapping mac_prefix="68F956" vendor_name="Objetivos y Servicio de Valor A&#52336;adido" />
   <VendorMapping mac_prefix="68FB95" vendor_name="Generalplus Technology Inc." />
   <VendorMapping mac_prefix="68FCB3" vendor_name="Next Level Security Systems, Inc." />
   <VendorMapping mac_prefix="6C0273" vendor_name="Shenzhen Jin Yun Video Equipment Co., Ltd." />
@@ -16061,6 +16146,7 @@
   <VendorMapping mac_prefix="6C22AB" vendor_name="Ainsworth Game Technology" />
   <VendorMapping mac_prefix="6C23B9" vendor_name="Sony Ericsson Mobile Communications AB" />
   <VendorMapping mac_prefix="6C25B9" vendor_name="BBK Electronics Corp., Ltd.," />
+  <VendorMapping mac_prefix="6C2779" vendor_name="Microsoft Mobile Oy" />
   <VendorMapping mac_prefix="6C2995" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="6C2C06" vendor_name="OOO NPP Systemotechnika-NN" />
   <VendorMapping mac_prefix="6C2E33" vendor_name="Accelink Technologies Co.,Ltd." />
@@ -16110,6 +16196,7 @@
   <VendorMapping mac_prefix="6C8D65" vendor_name="Wireless Glue Networks, Inc." />
   <VendorMapping mac_prefix="6C90B1" vendor_name="SanLogic Inc" />
   <VendorMapping mac_prefix="6C92BF" vendor_name="Inspur Electronic Information Industry Co.,Ltd." />
+  <VendorMapping mac_prefix="6C9354" vendor_name="Yaojin Technology (Shenzhen) Co., LTD." />
   <VendorMapping mac_prefix="6C94F8" vendor_name="Apple" />
   <VendorMapping mac_prefix="6C98EB" vendor_name="Ocedo GmbH" />
   <VendorMapping mac_prefix="6C9989" vendor_name="Cisco" />
@@ -16154,6 +16241,7 @@
   <VendorMapping mac_prefix="6CE873" vendor_name="TP-LINK TECHNOLOGIES CO., LTD." />
   <VendorMapping mac_prefix="6CE907" vendor_name="Nokia Corporation" />
   <VendorMapping mac_prefix="6CE983" vendor_name="Gastron Co., LTD." />
+  <VendorMapping mac_prefix="6CEBB2" vendor_name="Dongguan Sen DongLv Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="6CECA1" vendor_name="SHENZHEN CLOU ELECTRONICS CO. LTD." />
   <VendorMapping mac_prefix="6CECEB" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="6CF049" vendor_name="GIGA-BYTE TECHNOLOGY CO.,LTD." />
@@ -16174,6 +16262,7 @@
   <VendorMapping mac_prefix="700FEC" vendor_name="Poindus Systems Corp." />
   <VendorMapping mac_prefix="70105C" vendor_name="Cisco" />
   <VendorMapping mac_prefix="701124" vendor_name="Apple" />
+  <VendorMapping mac_prefix="7011AE" vendor_name="Music Life LTD" />
   <VendorMapping mac_prefix="701404" vendor_name="Limited Liability Company" />
   <VendorMapping mac_prefix="7014A6" vendor_name="Apple, Inc." />
   <VendorMapping mac_prefix="70188B" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
@@ -16273,6 +16362,7 @@
   <VendorMapping mac_prefix="70B599" vendor_name="Embedded Technologies s.r.o." />
   <VendorMapping mac_prefix="70B921" vendor_name="FiberHome Telecommunication Technologies CO.,LTD" />
   <VendorMapping mac_prefix="70BAEF" vendor_name="Hangzhou H3C Technologies Co., Limited" />
+  <VendorMapping mac_prefix="70BF3E" vendor_name="Charles River Laboratories" />
   <VendorMapping mac_prefix="70C6AC" vendor_name="Bosch Automotive Aftermarket" />
   <VendorMapping mac_prefix="70C76F" vendor_name="INNO S" />
   <VendorMapping mac_prefix="70CA9B" vendor_name="CISCO SYSTEMS, INC." />
@@ -16310,6 +16400,7 @@
   <VendorMapping mac_prefix="740EDB" vendor_name="Optowiz Co., Ltd" />
   <VendorMapping mac_prefix="741489" vendor_name="SRT Wireless" />
   <VendorMapping mac_prefix="7415E2" vendor_name="Tri-Sen Systems Corporation" />
+  <VendorMapping mac_prefix="741865" vendor_name="Shanghai DareGlobal Technologies Co.,Ltd" />
   <VendorMapping mac_prefix="7419F8" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="741E93" vendor_name="Fiberhome Telecommunication Tech.Co.,Ltd." />
   <VendorMapping mac_prefix="741F4A" vendor_name="Hangzhou H3C Technologies Co., Limited" />
@@ -16345,6 +16436,7 @@
   <VendorMapping mac_prefix="7463DF" vendor_name="VTS GmbH" />
   <VendorMapping mac_prefix="7465D1" vendor_name="Atlinks" />
   <VendorMapping mac_prefix="746630" vendor_name="T:mi Ytti" />
+  <VendorMapping mac_prefix="7467F7" vendor_name="Zebra Technologoes" />
   <VendorMapping mac_prefix="746A3A" vendor_name="Aperi Corporation" />
   <VendorMapping mac_prefix="746A89" vendor_name="Rezolt Corporation" />
   <VendorMapping mac_prefix="746A8F" vendor_name="VS Vision Systems GmbH" />
@@ -16387,7 +16479,7 @@
   <VendorMapping mac_prefix="74ADB7" vendor_name="China Mobile Group Device Co.,Ltd." />
   <VendorMapping mac_prefix="74AE76" vendor_name="iNovo Broadband, Inc." />
   <VendorMapping mac_prefix="74B00C" vendor_name="Network Video Technologies, Inc" />
-  <VendorMapping mac_prefix="74B9EB" vendor_name="Fujian JinQianMao Electronic Technology Co.,Ltd" />
+  <VendorMapping mac_prefix="74B9EB" vendor_name="JinQianMao Technology Co.,Ltd." />
   <VendorMapping mac_prefix="74BADB" vendor_name="Longconn Electornics(shenzhen)Co.,Ltd" />
   <VendorMapping mac_prefix="74BE08" vendor_name="ATEK Products, LLC" />
   <VendorMapping mac_prefix="74BFA1" vendor_name="HYUNTECK" />
@@ -16432,6 +16524,7 @@
   <VendorMapping mac_prefix="74FE48" vendor_name="ADVANTECH CO., LTD." />
   <VendorMapping mac_prefix="74FF7D" vendor_name="Wren Sound Systems, LLC" />
   <VendorMapping mac_prefix="78028F" vendor_name="Adaptive Spectrum and Signal Alignment (ASSIA), Inc." />
+  <VendorMapping mac_prefix="780541" vendor_name="Queclink Wireless Solutions Co., Ltd" />
   <VendorMapping mac_prefix="780738" vendor_name="Z.U.K. Elzab S.A." />
   <VendorMapping mac_prefix="780CB8" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="781185" vendor_name="NBS Payment Solutions Inc." />
@@ -16473,6 +16566,7 @@
   <VendorMapping mac_prefix="78510C" vendor_name="LiveU Ltd." />
   <VendorMapping mac_prefix="78521A" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="785262" vendor_name="Shenzhen Hojy Software Co., Ltd." />
+  <VendorMapping mac_prefix="7853F2" vendor_name="ROXTON Ltd." />
   <VendorMapping mac_prefix="78542E" vendor_name="D-Link International" />
   <VendorMapping mac_prefix="785517" vendor_name="SankyuElectronics" />
   <VendorMapping mac_prefix="785712" vendor_name="Mobile Integration Workgroup" />
@@ -16551,6 +16645,7 @@
   <VendorMapping mac_prefix="78D38D" vendor_name="HONGKONG YUNLINK TECHNOLOGY LIMITED" />
   <VendorMapping mac_prefix="78D5B5" vendor_name="NAVIELEKTRO KY" />
   <VendorMapping mac_prefix="78D66F" vendor_name="Aristocrat Technologies Australia Pty. Ltd." />
+  <VendorMapping mac_prefix="78D6B2" vendor_name="Toshiba" />
   <VendorMapping mac_prefix="78D6F0" vendor_name="Samsung Electro Mechanics" />
   <VendorMapping mac_prefix="78D752" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="78D75F" vendor_name="Apple, Inc." />
@@ -16654,6 +16749,7 @@
   <VendorMapping mac_prefix="7C8306" vendor_name="Glen Dimplex Nordic as" />
   <VendorMapping mac_prefix="7C8D91" vendor_name="Shanghai Hongzhuo Information Technology co.,LTD" />
   <VendorMapping mac_prefix="7C8EE4" vendor_name="Texas Instruments" />
+  <VendorMapping mac_prefix="7C9122" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="7C94B2" vendor_name="Philips Healthcare PCCI" />
   <VendorMapping mac_prefix="7C95F3" vendor_name="Cisco" />
   <VendorMapping mac_prefix="7C9763" vendor_name="Openmatics s.r.o." />
@@ -16774,6 +16870,7 @@
   <VendorMapping mac_prefix="806007" vendor_name="RIM" />
   <VendorMapping mac_prefix="80618F" vendor_name="Shenzhen sangfei consumer communications co.,ltd" />
   <VendorMapping mac_prefix="806459" vendor_name="Nimbus Inc." />
+  <VendorMapping mac_prefix="80656D" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="8065E9" vendor_name="BenQ Corporation" />
   <VendorMapping mac_prefix="806629" vendor_name="Prescope Technologies CO.,LTD." />
   <VendorMapping mac_prefix="806AB0" vendor_name="Tinno Mobile Technology Corp" />
@@ -16808,6 +16905,7 @@
   <VendorMapping mac_prefix="809B20" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="809FAB" vendor_name="Fiberhome Telecommunication Technologies Co.,LTD" />
   <VendorMapping mac_prefix="80A1D7" vendor_name="Shanghai DareGlobal Technologies Co.,Ltd" />
+  <VendorMapping mac_prefix="80A589" vendor_name="AzureWave Technologies, Inc." />
   <VendorMapping mac_prefix="80A85D" vendor_name="Osterhout Design Group" />
   <VendorMapping mac_prefix="80AAA4" vendor_name="USAG" />
   <VendorMapping mac_prefix="80AD67" vendor_name="Kasda Networks Inc" />
@@ -16838,6 +16936,7 @@
   <VendorMapping mac_prefix="80E01D" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="80E4DA" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="80E650" vendor_name="Apple" />
+  <VendorMapping mac_prefix="80E86F" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="80EA23" vendor_name="Wistron Neweb Corp." />
   <VendorMapping mac_prefix="80EA96" vendor_name="Apple" />
   <VendorMapping mac_prefix="80EACA" vendor_name="Dialog Semiconductor Hellas SA" />
@@ -16855,6 +16954,7 @@
   <VendorMapping mac_prefix="8401A7" vendor_name="Greyware Automation Products, Inc" />
   <VendorMapping mac_prefix="840B2D" vendor_name="SAMSUNG ELECTRO-MECHANICS CO., LTD" />
   <VendorMapping mac_prefix="840F45" vendor_name="Shanghai GMT Digital Technologies Co., Ltd" />
+  <VendorMapping mac_prefix="84100D" vendor_name="Motorola Mobility LLC, a Lenovo Company" />
   <VendorMapping mac_prefix="84119E" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="841715" vendor_name="GP Electronics (HK) Ltd." />
   <VendorMapping mac_prefix="841766" vendor_name="Weifang GoerTek Electronics Co., Ltd" />
@@ -16898,6 +16998,7 @@
   <VendorMapping mac_prefix="8455A5" vendor_name="Samsung Elec Co.,Ltd" />
   <VendorMapping mac_prefix="84569C" vendor_name="Coho Data, Inc.," />
   <VendorMapping mac_prefix="845787" vendor_name="DVR CC Co., Ltd." />
+  <VendorMapping mac_prefix="845B12" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="845C93" vendor_name="Chabrier Services" />
   <VendorMapping mac_prefix="845DD7" vendor_name="Shenzhen Netcom Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="8461A0" vendor_name="ARRIS Group, Inc." />
@@ -16940,6 +17041,7 @@
   <VendorMapping mac_prefix="84A466" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="84A6C8" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="84A783" vendor_name="Alcatel Lucent" />
+  <VendorMapping mac_prefix="84A788" vendor_name="Perples" />
   <VendorMapping mac_prefix="84A8E4" vendor_name="Shenzhen Huawei Communication Technologies Co., Ltd" />
   <VendorMapping mac_prefix="84A991" vendor_name="Cyber Trans Japan Co.,Ltd." />
   <VendorMapping mac_prefix="84ACA4" vendor_name="Beijing Novel Super Digital TV Technology Co., Ltd" />
@@ -16987,6 +17089,7 @@
   <VendorMapping mac_prefix="88142B" vendor_name="Protonic Holland" />
   <VendorMapping mac_prefix="881544" vendor_name="Meraki, Inc." />
   <VendorMapping mac_prefix="8818AE" vendor_name="Tamron Co., Ltd" />
+  <VendorMapping mac_prefix="881B99" vendor_name="SHENZHEN XIN FEI JIA ELECTRONIC CO. LTD." />
   <VendorMapping mac_prefix="881DFC" vendor_name="Cisco" />
   <VendorMapping mac_prefix="881FA1" vendor_name="Apple" />
   <VendorMapping mac_prefix="882012" vendor_name="LMI Technologies" />
@@ -17101,6 +17204,7 @@
   <VendorMapping mac_prefix="8C0C90" vendor_name="Ruckus Wireless" />
   <VendorMapping mac_prefix="8C0CA3" vendor_name="Amper" />
   <VendorMapping mac_prefix="8C0EE3" vendor_name="GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD." />
+  <VendorMapping mac_prefix="8C10D4" vendor_name="Sagemcom Broadband SAS" />
   <VendorMapping mac_prefix="8C11CB" vendor_name="ABUS Security-Center GmbH  Co. KG" />
   <VendorMapping mac_prefix="8C18D9" vendor_name="Shenzhen RF Technology Co., Ltd" />
   <VendorMapping mac_prefix="8C1F94" vendor_name="RF Surgical System Inc." />
@@ -17194,6 +17298,7 @@
   <VendorMapping mac_prefix="8CDE99" vendor_name="Comlab Inc." />
   <VendorMapping mac_prefix="8CDF9D" vendor_name="NEC Corporation" />
   <VendorMapping mac_prefix="8CE081" vendor_name="zte corporation" />
+  <VendorMapping mac_prefix="8CE2DA" vendor_name="Circle Media Inc" />
   <VendorMapping mac_prefix="8CE748" vendor_name="" />
   <VendorMapping mac_prefix="8CE78C" vendor_name="DK Networks" />
   <VendorMapping mac_prefix="8CE7B3" vendor_name="Sonardyne International Ltd" />
@@ -17231,6 +17336,7 @@
   <VendorMapping mac_prefix="902106" vendor_name="BSkyB Ltd" />
   <VendorMapping mac_prefix="902155" vendor_name="HTC Corporation" />
   <VendorMapping mac_prefix="902181" vendor_name="Shanghai Huaqin Telecom Technology Co.,Ltd" />
+  <VendorMapping mac_prefix="9023EC" vendor_name="Availink, Inc." />
   <VendorMapping mac_prefix="9027E4" vendor_name="Apple" />
   <VendorMapping mac_prefix="902B34" vendor_name="GIGA-BYTE TECHNOLOGY CO.,LTD." />
   <VendorMapping mac_prefix="902CC7" vendor_name="C-MAX Asia Limited" />
@@ -17273,6 +17379,7 @@
   <VendorMapping mac_prefix="906DC8" vendor_name="DLG Automa&#52300;&#52286;o Industrial Ltda" />
   <VendorMapping mac_prefix="906EBB" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="906F18" vendor_name="" />
+  <VendorMapping mac_prefix="906FA9" vendor_name="NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD." />
   <VendorMapping mac_prefix="907025" vendor_name="Garea Microsys Co.,Ltd." />
   <VendorMapping mac_prefix="907240" vendor_name="Apple" />
   <VendorMapping mac_prefix="907990" vendor_name="Benchmark Electronics Romania SRL" />
@@ -17332,6 +17439,7 @@
   <VendorMapping mac_prefix="90DA6A" vendor_name="FOCUS HS Co., Ltd." />
   <VendorMapping mac_prefix="90DB46" vendor_name="E-LEAD ELECTRONIC CO., LTD" />
   <VendorMapping mac_prefix="90DFB7" vendor_name="s.m.s smart microwave sensors GmbH" />
+  <VendorMapping mac_prefix="90DFFB" vendor_name="HOMERIDER SYSTEMS" />
   <VendorMapping mac_prefix="90E0F0" vendor_name="IEEE 1722a Working Group" />
   <VendorMapping mac_prefix="90E2BA" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="90E6BA" vendor_name="ASUSTek COMPUTER INC." />
@@ -17384,6 +17492,7 @@
   <VendorMapping mac_prefix="945103" vendor_name="Samsung Electronics" />
   <VendorMapping mac_prefix="9451BF" vendor_name="Hyundai ESG" />
   <VendorMapping mac_prefix="945493" vendor_name="Rigado, LLC" />
+  <VendorMapping mac_prefix="9457A5" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="94592D" vendor_name="EKE Building Technology Systems Ltd" />
   <VendorMapping mac_prefix="945B7E" vendor_name="TRILOBIT LTDA." />
   <VendorMapping mac_prefix="946124" vendor_name="Pason Systems" />
@@ -17423,6 +17532,7 @@
   <VendorMapping mac_prefix="94B9B4" vendor_name="Aptos Technology" />
   <VendorMapping mac_prefix="94BA31" vendor_name="Visiontec da Amaz&#52377;nia Ltda." />
   <VendorMapping mac_prefix="94BA56" vendor_name="Shenzhen Coship Electronics Co., Ltd." />
+  <VendorMapping mac_prefix="94BBAE" vendor_name="Husqvarna AB" />
   <VendorMapping mac_prefix="94BF1E" vendor_name="eflow Inc. / Smart Device Planning and Development Division" />
   <VendorMapping mac_prefix="94BF95" vendor_name="Shenzhen Coship Electronics Co., Ltd" />
   <VendorMapping mac_prefix="94C014" vendor_name="Sorter Sp. j. Konrad Grzeszczyk MichaA, Ziomek" />
@@ -17462,6 +17572,7 @@
   <VendorMapping mac_prefix="94EB2C" vendor_name="Google Inc." />
   <VendorMapping mac_prefix="94EBCD" vendor_name="Research In Motion Limited" />
   <VendorMapping mac_prefix="94F19E" vendor_name="HUIZHOU MAORONG INTELLIGENT TECHNOLOGY CO.,LTD" />
+  <VendorMapping mac_prefix="94F278" vendor_name="Elma Electronic" />
   <VendorMapping mac_prefix="94F665" vendor_name="Ruckus Wireless" />
   <VendorMapping mac_prefix="94F692" vendor_name="Geminico co.,Ltd." />
   <VendorMapping mac_prefix="94F6A3" vendor_name="Apple, Inc." />
@@ -17591,6 +17702,7 @@
   <VendorMapping mac_prefix="9C2840" vendor_name="Discovery Technology,LTD.." />
   <VendorMapping mac_prefix="9C28BF" vendor_name="Continental Automotive Czech Republic s.r.o." />
   <VendorMapping mac_prefix="9C28EF" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
+  <VendorMapping mac_prefix="9C293F" vendor_name="Apple, Inc." />
   <VendorMapping mac_prefix="9C2A70" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
   <VendorMapping mac_prefix="9C3066" vendor_name="RWE Effizienz GmbH" />
   <VendorMapping mac_prefix="9C3178" vendor_name="Foshan Huadian Intelligent Communications Teachnologies Co.,Ltd" />
@@ -17631,6 +17743,7 @@
   <VendorMapping mac_prefix="9C7514" vendor_name="Wildix srl" />
   <VendorMapping mac_prefix="9C77AA" vendor_name="NADASNV" />
   <VendorMapping mac_prefix="9C79AC" vendor_name="Suntec Software(Shanghai) Co., Ltd." />
+  <VendorMapping mac_prefix="9C7A03" vendor_name="Ciena Corporation" />
   <VendorMapping mac_prefix="9C7BD2" vendor_name="NEOLAB Convergence" />
   <VendorMapping mac_prefix="9C807D" vendor_name="SYSCABLE Korea Inc." />
   <VendorMapping mac_prefix="9C80DF" vendor_name="Arcadyan Technology Corporation" />
@@ -17638,6 +17751,7 @@
   <VendorMapping mac_prefix="9C8888" vendor_name="Simac Techniek NV" />
   <VendorMapping mac_prefix="9C8BF1" vendor_name="The Warehouse Limited" />
   <VendorMapping mac_prefix="9C8D1A" vendor_name="INTEG process group inc" />
+  <VendorMapping mac_prefix="9C8DD3" vendor_name="Leonton Technologies" />
   <VendorMapping mac_prefix="9C8E99" vendor_name="Hewlett-Packard Company" />
   <VendorMapping mac_prefix="9C8EDC" vendor_name="Teracom Limited" />
   <VendorMapping mac_prefix="9C934E" vendor_name="Xerox Corporation" />
@@ -17714,11 +17828,13 @@
   <VendorMapping mac_prefix="A01B29" vendor_name="SAGEMCOM" />
   <VendorMapping mac_prefix="A01C05" vendor_name="NIMAX TELECOM CO.,LTD." />
   <VendorMapping mac_prefix="A01D48" vendor_name="Hewlett Packard" />
+  <VendorMapping mac_prefix="A01E0B" vendor_name="MINIX Technology Limited" />
   <VendorMapping mac_prefix="A02195" vendor_name="Samsung Electronics Digital Imaging" />
   <VendorMapping mac_prefix="A021B7" vendor_name="NETGEAR" />
   <VendorMapping mac_prefix="A0231B" vendor_name="TeleComp RD Corp." />
   <VendorMapping mac_prefix="A02BB8" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="A02EF3" vendor_name="United Integrated Services Co., Led." />
+  <VendorMapping mac_prefix="A03299" vendor_name="Lenovo (Beijing) Co., Ltd." />
   <VendorMapping mac_prefix="A0369F" vendor_name="Intel Corporate" />
   <VendorMapping mac_prefix="A036F0" vendor_name="Comprehensive Power" />
   <VendorMapping mac_prefix="A036FA" vendor_name="Ettus Research LLC" />
@@ -17769,6 +17885,7 @@
   <VendorMapping mac_prefix="A08C15" vendor_name="Gerhard D. Wempe KG" />
   <VendorMapping mac_prefix="A08C9B" vendor_name="Xtreme Technologies Corp" />
   <VendorMapping mac_prefix="A090DE" vendor_name="VEEDIMS,LLC" />
+  <VendorMapping mac_prefix="A09169" vendor_name="LG Electronics" />
   <VendorMapping mac_prefix="A09347" vendor_name="GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD." />
   <VendorMapping mac_prefix="A09805" vendor_name="OpenVox Communication Co Ltd" />
   <VendorMapping mac_prefix="A098ED" vendor_name="Shandong Intelligent Optical Communication Development Co., Ltd." />
@@ -17857,6 +17974,7 @@
   <VendorMapping mac_prefix="A43135" vendor_name="Apple Inc" />
   <VendorMapping mac_prefix="A433D1" vendor_name="Fibrlink Communications Co.,Ltd." />
   <VendorMapping mac_prefix="A434D9" vendor_name="Intel Corporate" />
+  <VendorMapping mac_prefix="A43831" vendor_name="RF elements s.r.o." />
   <VendorMapping mac_prefix="A438FC" vendor_name="Plastic Logic" />
   <VendorMapping mac_prefix="A43A69" vendor_name="Vers Inc" />
   <VendorMapping mac_prefix="A43BFA" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
@@ -17915,6 +18033,7 @@
   <VendorMapping mac_prefix="A4A1E4" vendor_name="Innotube, Inc." />
   <VendorMapping mac_prefix="A4A24A" vendor_name="Cisco SPVTG" />
   <VendorMapping mac_prefix="A4A4D3" vendor_name="Bluebank Communication Technology Co.Ltd" />
+  <VendorMapping mac_prefix="A4A6A9" vendor_name="" />
   <VendorMapping mac_prefix="A4A80F" vendor_name="Shenzhen Coship Electronics Co., Ltd." />
   <VendorMapping mac_prefix="A4AD00" vendor_name="Ragsdale Technology" />
   <VendorMapping mac_prefix="A4ADB8" vendor_name="Vitec Group, Camera Dynamics Ltd" />
@@ -17946,6 +18065,7 @@
   <VendorMapping mac_prefix="A4DA3F" vendor_name="Bionics Corp." />
   <VendorMapping mac_prefix="A4DB2E" vendor_name="Kingspan Environmental Ltd" />
   <VendorMapping mac_prefix="A4DB30" vendor_name="Liteon Technology Corporation" />
+  <VendorMapping mac_prefix="A4DCBE" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="A4DE50" vendor_name="Total Walther GmbH" />
   <VendorMapping mac_prefix="A4E0E6" vendor_name="FILIZOLA S.A. PESAGEM E AUTOMACAO" />
   <VendorMapping mac_prefix="A4E32E" vendor_name="Silicon  Software Systems Ltd." />
@@ -17969,6 +18089,7 @@
   <VendorMapping mac_prefix="A80C0D" vendor_name="Cisco" />
   <VendorMapping mac_prefix="A81374" vendor_name="Panasonic Corporation AVC Networks Company" />
   <VendorMapping mac_prefix="A8154D" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD." />
+  <VendorMapping mac_prefix="A815D6" vendor_name="Shenzhen Meione Technology CO., LTD" />
   <VendorMapping mac_prefix="A816B2" vendor_name="LG Electronics" />
   <VendorMapping mac_prefix="A81758" vendor_name="Elektronik System i Ume&#52293; AB" />
   <VendorMapping mac_prefix="A81B18" vendor_name="XTS CORP" />
@@ -17986,6 +18107,7 @@
   <VendorMapping mac_prefix="A83944" vendor_name="Actiontec Electronics, Inc" />
   <VendorMapping mac_prefix="A84041" vendor_name="Dragino Technology Co., Limited" />
   <VendorMapping mac_prefix="A84481" vendor_name="Nokia Corporation" />
+  <VendorMapping mac_prefix="A845CD" vendor_name="Siselectron Technology LTD." />
   <VendorMapping mac_prefix="A845E9" vendor_name="Firich Enterprises CO., LTD." />
   <VendorMapping mac_prefix="A849A5" vendor_name="Lisantech Co., Ltd." />
   <VendorMapping mac_prefix="A854B2" vendor_name="Wistron Neweb Corp." />
@@ -18003,6 +18125,7 @@
   <VendorMapping mac_prefix="A8667F" vendor_name="Apple, Inc." />
   <VendorMapping mac_prefix="A86A6F" vendor_name="RIM" />
   <VendorMapping mac_prefix="A870A5" vendor_name="UniComm Inc." />
+  <VendorMapping mac_prefix="A87285" vendor_name="IDT, INC." />
   <VendorMapping mac_prefix="A8741D" vendor_name="PHOENIX CONTACT Electronics GmbH" />
   <VendorMapping mac_prefix="A875D6" vendor_name="FreeTek International Co., Ltd." />
   <VendorMapping mac_prefix="A875E2" vendor_name="Aventura Technologies, Inc." />
@@ -18042,6 +18165,7 @@
   <VendorMapping mac_prefix="A8BD1A" vendor_name="Honey Bee (Hong Kong) Limited" />
   <VendorMapping mac_prefix="A8BD3A" vendor_name="UNIONMAN TECHNOLOGY CO.,LTD" />
   <VendorMapping mac_prefix="A8C222" vendor_name="TM-Research Inc." />
+  <VendorMapping mac_prefix="A8C87F" vendor_name="Roqos, Inc." />
   <VendorMapping mac_prefix="A8CB95" vendor_name="EAST BEST CO., LTD." />
   <VendorMapping mac_prefix="A8CCC5" vendor_name="Saab AB (publ)" />
   <VendorMapping mac_prefix="A8CE90" vendor_name="CVC" />
@@ -18115,8 +18239,10 @@
   <VendorMapping mac_prefix="AC5A14" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="AC5D10" vendor_name="Pace Americas" />
   <VendorMapping mac_prefix="AC5E8C" vendor_name="Utillink" />
+  <VendorMapping mac_prefix="AC60B6" vendor_name="Ericsson AB" />
   <VendorMapping mac_prefix="AC6123" vendor_name="Drivven, Inc." />
   <VendorMapping mac_prefix="AC620D" vendor_name="Jabil Circuit (Wuxi) Co. LTD" />
+  <VendorMapping mac_prefix="AC6462" vendor_name="zte corporation" />
   <VendorMapping mac_prefix="AC6706" vendor_name="Ruckus Wireless" />
   <VendorMapping mac_prefix="AC676F" vendor_name="Electrocompaniet A.S." />
   <VendorMapping mac_prefix="AC6BAC" vendor_name="Jenny Science AG" />
@@ -18129,6 +18255,7 @@
   <VendorMapping mac_prefix="AC7A42" vendor_name="iConnectivity" />
   <VendorMapping mac_prefix="AC7A4D" vendor_name="ALPS ELECTRIC CO.,LTD." />
   <VendorMapping mac_prefix="AC7BA1" vendor_name="Intel Corporate" />
+  <VendorMapping mac_prefix="AC7E8A" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="AC7F3E" vendor_name="Apple" />
   <VendorMapping mac_prefix="AC80D6" vendor_name="Hexatronic AB" />
   <VendorMapping mac_prefix="AC8112" vendor_name="Gemtek Technology Co., Ltd." />
@@ -18139,6 +18266,7 @@
   <VendorMapping mac_prefix="AC8674" vendor_name="Open Mesh, Inc." />
   <VendorMapping mac_prefix="AC867E" vendor_name="Create New Technology (HK) Limited Company" />
   <VendorMapping mac_prefix="AC87A3" vendor_name="Apple" />
+  <VendorMapping mac_prefix="AC8995" vendor_name="AzureWave Technology Inc." />
   <VendorMapping mac_prefix="AC8ACD" vendor_name="ROGER D.Wensker, G.Wensker sp.j." />
   <VendorMapping mac_prefix="AC8D14" vendor_name="Smartrove Inc" />
   <VendorMapping mac_prefix="AC932F" vendor_name="Nokia Corporation" />
@@ -18161,10 +18289,12 @@
   <VendorMapping mac_prefix="ACB57D" vendor_name="Liteon Technology Corporation" />
   <VendorMapping mac_prefix="ACB74F" vendor_name="METEL s.r.o." />
   <VendorMapping mac_prefix="ACB859" vendor_name="Uniband Electronic Corp," />
+  <VendorMapping mac_prefix="ACBC32" vendor_name="Apple" />
   <VendorMapping mac_prefix="ACBD0B" vendor_name="IMAC CO.,LTD" />
   <VendorMapping mac_prefix="ACBE75" vendor_name="Ufine Technologies Co.,Ltd." />
   <VendorMapping mac_prefix="ACBEB6" vendor_name="Visualedge Technology Co., Ltd." />
   <VendorMapping mac_prefix="ACC2EC" vendor_name="CLT INT'L IND. CORP." />
+  <VendorMapping mac_prefix="ACC51B" vendor_name="Zhuhai Pantum Electronics Co., Ltd." />
   <VendorMapping mac_prefix="ACC595" vendor_name="Graphite Systems" />
   <VendorMapping mac_prefix="ACC698" vendor_name="Kohzu Precision Co., Ltd." />
   <VendorMapping mac_prefix="ACC73F" vendor_name="VITSMO CO., LTD." />
@@ -18199,6 +18329,7 @@
   <VendorMapping mac_prefix="ACEA6A" vendor_name="GENIX INFOCOMM CO., LTD." />
   <VendorMapping mac_prefix="ACEC80" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="ACEE3B" vendor_name="6harmonics Inc" />
+  <VendorMapping mac_prefix="ACEE9E" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="ACF0B2" vendor_name="Becker Electronics Taiwan Ltd." />
   <VendorMapping mac_prefix="ACF1DF" vendor_name="D-Link International" />
   <VendorMapping mac_prefix="ACF2C5" vendor_name="Cisco" />
@@ -18239,6 +18370,7 @@
   <VendorMapping mac_prefix="B0518E" vendor_name="Holl technology CO.Ltd." />
   <VendorMapping mac_prefix="B05706" vendor_name="Vallox Oy" />
   <VendorMapping mac_prefix="B058C4" vendor_name="Broadcast Microwave Services, Inc" />
+  <VendorMapping mac_prefix="B05ADA" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="B05B1F" vendor_name="THERMO FISHER SCIENTIFIC S.P.A." />
   <VendorMapping mac_prefix="B05B67" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="B05CE5" vendor_name="Nokia Corporation" />
@@ -18252,6 +18384,7 @@
   <VendorMapping mac_prefix="B0754D" vendor_name="Alcatel-Lucent" />
   <VendorMapping mac_prefix="B075D5" vendor_name="ZTE Corporation" />
   <VendorMapping mac_prefix="B077AC" vendor_name="ARRIS Group, Inc." />
+  <VendorMapping mac_prefix="B078F0" vendor_name="Beijing HuaqinWorld Technology Co.,Ltd." />
   <VendorMapping mac_prefix="B07908" vendor_name="Cummings Engineering" />
   <VendorMapping mac_prefix="B0793C" vendor_name="Revolv Inc" />
   <VendorMapping mac_prefix="B07994" vendor_name="Motorola Mobility LLC" />
@@ -18294,6 +18427,7 @@
   <VendorMapping mac_prefix="B0C4E7" vendor_name="Samsung Electronics" />
   <VendorMapping mac_prefix="B0C554" vendor_name="D-Link International" />
   <VendorMapping mac_prefix="B0C559" vendor_name="Samsung Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="B0C5CA" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="B0C69A" vendor_name="Juniper Networks" />
   <VendorMapping mac_prefix="B0C745" vendor_name="Buffalo Inc." />
   <VendorMapping mac_prefix="B0C83F" vendor_name="Jiangsu Cynray IOT Co., Ltd." />
@@ -18342,6 +18476,7 @@
   <VendorMapping mac_prefix="B4218A" vendor_name="Dog Hunter LLC" />
   <VendorMapping mac_prefix="B424E7" vendor_name="Codetek Technology Co.,Ltd" />
   <VendorMapping mac_prefix="B428F1" vendor_name="E-Prime Co., Ltd." />
+  <VendorMapping mac_prefix="B4293D" vendor_name="Shenzhen Urovo Technology Co.,Ltd." />
   <VendorMapping mac_prefix="B42A39" vendor_name="ORBIT MERRET, spol. s r. o." />
   <VendorMapping mac_prefix="B42C92" vendor_name="Zhejiang Weirong Electronic Co., Ltd" />
   <VendorMapping mac_prefix="B42CBE" vendor_name="Direct Payment Solutions Limited" />
@@ -18392,6 +18527,7 @@
   <VendorMapping mac_prefix="B49842" vendor_name="zte corporation" />
   <VendorMapping mac_prefix="B4994C" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="B499BA" vendor_name="Hewlett-Packard Company" />
+  <VendorMapping mac_prefix="B49D0B" vendor_name="BQ" />
   <VendorMapping mac_prefix="B49DB4" vendor_name="Axion Technologies Inc." />
   <VendorMapping mac_prefix="B49EAC" vendor_name="Imagik Int'l Corp" />
   <VendorMapping mac_prefix="B49EE6" vendor_name="SHENZHEN TECHNOLOGY CO LTD" />
@@ -18465,14 +18601,17 @@
   <VendorMapping mac_prefix="B83861" vendor_name="Cisco" />
   <VendorMapping mac_prefix="B838CA" vendor_name="Kyokko Tsushin System CO.,LTD" />
   <VendorMapping mac_prefix="B83A7B" vendor_name="Worldplay (Canada) Inc." />
+  <VendorMapping mac_prefix="B83A9D" vendor_name="FIVE INTERACTIVE, LLC" />
   <VendorMapping mac_prefix="B83D4E" vendor_name="Shenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch" />
   <VendorMapping mac_prefix="B83E59" vendor_name="Roku, Inc" />
   <VendorMapping mac_prefix="B8415F" vendor_name="ASP AG" />
   <VendorMapping mac_prefix="B843E4" vendor_name="Vlatacom" />
+  <VendorMapping mac_prefix="B844D9" vendor_name="Apple" />
   <VendorMapping mac_prefix="B847C6" vendor_name="SanJet Technology Corp." />
   <VendorMapping mac_prefix="B84FD5" vendor_name="Microsoft Corporation" />
   <VendorMapping mac_prefix="B85510" vendor_name="Zioncom Electronics (Shenzhen) Ltd." />
   <VendorMapping mac_prefix="B856BD" vendor_name="ITT LLC" />
+  <VendorMapping mac_prefix="B857D8" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="B85810" vendor_name="NUMERA, INC." />
   <VendorMapping mac_prefix="B85A73" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="B85AF7" vendor_name="Ouya, Inc" />
@@ -18498,6 +18637,7 @@
   <VendorMapping mac_prefix="B8797E" vendor_name="Secure Meters (UK) Limited" />
   <VendorMapping mac_prefix="B87AC9" vendor_name="Siemens Ltd." />
   <VendorMapping mac_prefix="B87CF2" vendor_name="Aerohive Networks Inc." />
+  <VendorMapping mac_prefix="B88687" vendor_name="Liteon Technology Corporation" />
   <VendorMapping mac_prefix="B8871E" vendor_name="Good Mind Industries Co., Ltd." />
   <VendorMapping mac_prefix="B887A8" vendor_name="Step Ahead Innovations Inc." />
   <VendorMapping mac_prefix="B888E3" vendor_name="COMPAL INFORMATION (KUNSHAN) CO., LTD" />
@@ -18604,6 +18744,7 @@
   <VendorMapping mac_prefix="BC2D98" vendor_name="ThinGlobal LLC" />
   <VendorMapping mac_prefix="BC305B" vendor_name="Dell Inc." />
   <VendorMapping mac_prefix="BC307D" vendor_name="Wistron Neweb Corp." />
+  <VendorMapping mac_prefix="BC307E" vendor_name="Wistron Neweb Corp" />
   <VendorMapping mac_prefix="BC3400" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="BC35E5" vendor_name="Hydro Systems Company" />
   <VendorMapping mac_prefix="BC38D2" vendor_name="Pandachip Limited" />
@@ -18691,6 +18832,7 @@
   <VendorMapping mac_prefix="BCD940" vendor_name="ASR Co,.Ltd." />
   <VendorMapping mac_prefix="BCE09D" vendor_name="Eoslink" />
   <VendorMapping mac_prefix="BCE59F" vendor_name="WATERWORLD Technology Co.,LTD" />
+  <VendorMapping mac_prefix="BCE63F" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="BCE767" vendor_name="Quanzhou  TDX Electronics Co., Ltd" />
   <VendorMapping mac_prefix="BCEA2B" vendor_name="CityCom GmbH" />
   <VendorMapping mac_prefix="BCEAFA" vendor_name="Hewlett Packard" />
@@ -18707,6 +18849,7 @@
   <VendorMapping mac_prefix="BCFFAC" vendor_name="TOPCON CORPORATION" />
   <VendorMapping mac_prefix="C005C2" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="C00D7E" vendor_name="Additech, Inc." />
+  <VendorMapping mac_prefix="C01173" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="C011A6" vendor_name="Fort-Telecom ltd." />
   <VendorMapping mac_prefix="C01242" vendor_name="Alpha Security Products" />
   <VendorMapping mac_prefix="C0143D" vendor_name="Hon Hai Precision Ind. Co.,Ltd." />
@@ -18717,11 +18860,13 @@
   <VendorMapping mac_prefix="C02506" vendor_name="AVM GmbH" />
   <VendorMapping mac_prefix="C0255C" vendor_name="Cisco" />
   <VendorMapping mac_prefix="C02567" vendor_name="Nexxt Solutions" />
+  <VendorMapping mac_prefix="C025A2" vendor_name="NEC Platforms, Ltd." />
   <VendorMapping mac_prefix="C027B9" vendor_name="Beijing National Railway Research  Design Institute  of Signal  Communication Co., Ltd." />
   <VendorMapping mac_prefix="C02973" vendor_name="Audyssey Laboratories Inc." />
   <VendorMapping mac_prefix="C029F3" vendor_name="XySystem" />
   <VendorMapping mac_prefix="C02BFC" vendor_name="iNES. applied informatics GmbH" />
   <VendorMapping mac_prefix="C02C7A" vendor_name="Shen Zhen Horn audio Co., Ltd." />
+  <VendorMapping mac_prefix="C02DEE" vendor_name="Cuff" />
   <VendorMapping mac_prefix="C0335E" vendor_name="Microsoft" />
   <VendorMapping mac_prefix="C034B4" vendor_name="Gigastone Corporation" />
   <VendorMapping mac_prefix="C03580" vendor_name="AR TECH" />
@@ -18740,6 +18885,7 @@
   <VendorMapping mac_prefix="C044E3" vendor_name="Shenzhen Sinkna Electronics Co., LTD" />
   <VendorMapping mac_prefix="C0493D" vendor_name="MAITRISE TECHNOLOGIQUE" />
   <VendorMapping mac_prefix="C04A00" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD." />
+  <VendorMapping mac_prefix="C04A09" vendor_name="Zhejiang Everbright Communication Equip. Co,. Ltd" />
   <VendorMapping mac_prefix="C04DF7" vendor_name="SERELEC" />
   <VendorMapping mac_prefix="C05627" vendor_name="Belkin International, Inc." />
   <VendorMapping mac_prefix="C056E3" vendor_name="Hangzhou Hikvision Digital Technology Co.,Ltd." />
@@ -18757,10 +18903,12 @@
   <VendorMapping mac_prefix="C06C6D" vendor_name="MagneMotion, Inc." />
   <VendorMapping mac_prefix="C07009" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="C07BBC" vendor_name="Cisco" />
+  <VendorMapping mac_prefix="C07CD1" vendor_name="PEGATRON CORPORATION" />
   <VendorMapping mac_prefix="C07E40" vendor_name="SHENZHEN XDK COMMUNICATION EQUIPMENT CO.,LTD" />
   <VendorMapping mac_prefix="C08170" vendor_name="Effigis GeoSolutions" />
   <VendorMapping mac_prefix="C0830A" vendor_name="2Wire" />
   <VendorMapping mac_prefix="C0847A" vendor_name="Apple" />
+  <VendorMapping mac_prefix="C08488" vendor_name="Finis Inc" />
   <VendorMapping mac_prefix="C0885B" vendor_name="SnD Tech Co., Ltd." />
   <VendorMapping mac_prefix="C08997" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="C08ADE" vendor_name="Ruckus Wireless" />
@@ -18821,6 +18969,7 @@
   <VendorMapping mac_prefix="C401B1" vendor_name="SeekTech INC" />
   <VendorMapping mac_prefix="C401CE" vendor_name="PRESITION (2000) CO., LTD." />
   <VendorMapping mac_prefix="C40415" vendor_name="NETGEAR INC.," />
+  <VendorMapping mac_prefix="C4047B" vendor_name="Shenzhen YOUHUA Technology Co., Ltd" />
   <VendorMapping mac_prefix="C40528" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="C4072F" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="C4084A" vendor_name="Alcatel-Lucent" />
@@ -18983,6 +19132,7 @@
   <VendorMapping mac_prefix="C8458F" vendor_name="Wyler AG" />
   <VendorMapping mac_prefix="C848F5" vendor_name="MEDISON Xray Co., Ltd" />
   <VendorMapping mac_prefix="C84C75" vendor_name="CISCO SYSTEMS, INC." />
+  <VendorMapping mac_prefix="C85195" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="C85645" vendor_name="Intermas France" />
   <VendorMapping mac_prefix="C85663" vendor_name="Sunflex Europe GmbH" />
   <VendorMapping mac_prefix="C86000" vendor_name="ASUSTek COMPUTER INC." />
@@ -19002,6 +19152,7 @@
   <VendorMapping mac_prefix="C8873B" vendor_name="Net Optics" />
   <VendorMapping mac_prefix="C88A83" vendor_name="Dongguan HuaHong Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="C88B47" vendor_name="Nolangroup S.P.A con Socio Unico" />
+  <VendorMapping mac_prefix="C88ED1" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="C8903E" vendor_name="Pakton Technologies" />
   <VendorMapping mac_prefix="C891F9" vendor_name="SAGEMCOM" />
   <VendorMapping mac_prefix="C89346" vendor_name="MXCHIP Company Limited" />
@@ -19019,6 +19170,7 @@
   <VendorMapping mac_prefix="C8A70A" vendor_name="Verizon Business" />
   <VendorMapping mac_prefix="C8A729" vendor_name="SYStronics Co., Ltd." />
   <VendorMapping mac_prefix="C8A823" vendor_name="Samsung Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="C8A9FC" vendor_name="Goyoo Networks Inc." />
   <VendorMapping mac_prefix="C8AA21" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="C8AACC" vendor_name="" />
   <VendorMapping mac_prefix="C8AE9C" vendor_name="Shanghai TYD Elecronic Technology Co. Ltd" />
@@ -19207,6 +19359,7 @@
   <VendorMapping mac_prefix="D00AAB" vendor_name="Yokogawa Digital Computer Corporation" />
   <VendorMapping mac_prefix="D00EA4" vendor_name="Porsche Cars North America" />
   <VendorMapping mac_prefix="D00ED9" vendor_name="TAICANG T AND W ELECTRONICS CO LTD" />
+  <VendorMapping mac_prefix="D00F6D" vendor_name="TW Electronics Company" />
   <VendorMapping mac_prefix="D01242" vendor_name="BIOS Corporation" />
   <VendorMapping mac_prefix="D0131E" vendor_name="Sunrex Technology Corp" />
   <VendorMapping mac_prefix="D0154A" vendor_name="zte corporation" />
@@ -19217,6 +19370,7 @@
   <VendorMapping mac_prefix="D022BE" vendor_name="Samsung Electro Mechanics co.,LTD." />
   <VendorMapping mac_prefix="D023DB" vendor_name="Apple" />
   <VendorMapping mac_prefix="D02516" vendor_name="SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD." />
+  <VendorMapping mac_prefix="D02544" vendor_name="Samsung Electro Mechanics co., LTD." />
   <VendorMapping mac_prefix="D02598" vendor_name="Apple, Inc." />
   <VendorMapping mac_prefix="D02788" vendor_name="Hon Hai Precision Ind.Co.Ltd" />
   <VendorMapping mac_prefix="D02C45" vendor_name="littleBits Electronics, Inc." />
@@ -19278,6 +19432,7 @@
   <VendorMapping mac_prefix="D08CB5" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="D08CFF" vendor_name="UPWIS AB" />
   <VendorMapping mac_prefix="D0929E" vendor_name="Microsoft Corporation" />
+  <VendorMapping mac_prefix="D09380" vendor_name="Ducere Technologies Pvt. Ltd." />
   <VendorMapping mac_prefix="D093F8" vendor_name="Stonestreet One LLC" />
   <VendorMapping mac_prefix="D095C7" vendor_name="Pantech Co., Ltd." />
   <VendorMapping mac_prefix="D09B05" vendor_name="Emtronix" />
@@ -19295,11 +19450,13 @@
   <VendorMapping mac_prefix="D0B523" vendor_name="Bestcare Cloucal Corp." />
   <VendorMapping mac_prefix="D0B53D" vendor_name="SEPRO ROBOTIQUE" />
   <VendorMapping mac_prefix="D0B5C2" vendor_name="Texas Instruments" />
+  <VendorMapping mac_prefix="D0BAE4" vendor_name="Shanghai MXCHIP Information Technology Co., Ltd." />
   <VendorMapping mac_prefix="D0BB80" vendor_name="SHL Telemedicine International Ltd." />
   <VendorMapping mac_prefix="D0BD01" vendor_name="DS International" />
   <VendorMapping mac_prefix="D0BE2C" vendor_name="CNSLink Co., Ltd." />
   <VendorMapping mac_prefix="D0BF9C" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="D0C0BF" vendor_name="Actions Microelectronics Co., Ltd" />
+  <VendorMapping mac_prefix="D0C193" vendor_name="SKYBELL, INC" />
   <VendorMapping mac_prefix="D0C1B1" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="D0C282" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="D0C42F" vendor_name="Tamagawa Seiki Co.,Ltd." />
@@ -19337,6 +19494,7 @@
   <VendorMapping mac_prefix="D4024A" vendor_name="Delphian Systems LLC" />
   <VendorMapping mac_prefix="D404CD" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="D40598" vendor_name="ARRIS Group, Inc." />
+  <VendorMapping mac_prefix="D40AA9" vendor_name="ARRIS GROUP, INC." />
   <VendorMapping mac_prefix="D40B1A" vendor_name="HTC Corporation" />
   <VendorMapping mac_prefix="D40BB9" vendor_name="Solid Semecs bv." />
   <VendorMapping mac_prefix="D40FB2" vendor_name="Applied Micro Electronics AME bv" />
@@ -19365,6 +19523,7 @@
   <VendorMapping mac_prefix="D43AE9" vendor_name="DONGGUAN ipt INDUSTRIAL CO., LTD" />
   <VendorMapping mac_prefix="D43D67" vendor_name="Carma Industries Inc." />
   <VendorMapping mac_prefix="D43D7E" vendor_name="Micro-Star Int'l Co, Ltd" />
+  <VendorMapping mac_prefix="D440F0" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="D443A8" vendor_name="Changzhou Haojie Electric Co., Ltd." />
   <VendorMapping mac_prefix="D445E8" vendor_name="Jiangxi Hongpai Technology Co., Ltd." />
   <VendorMapping mac_prefix="D44B5E" vendor_name="TAIYO YUDEN CO., LTD." />
@@ -19402,6 +19561,7 @@
   <VendorMapping mac_prefix="D47BB0" vendor_name="ASKEY COMPUTER CORP" />
   <VendorMapping mac_prefix="D481CA" vendor_name="iDevices, LLC" />
   <VendorMapping mac_prefix="D4823E" vendor_name="Argosy Technologies, Ltd." />
+  <VendorMapping mac_prefix="D48304" vendor_name="SHENZHEN FAST TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="D48564" vendor_name="Hewlett-Packard Company" />
   <VendorMapping mac_prefix="D487D8" vendor_name="Samsung Electronics" />
   <VendorMapping mac_prefix="D48890" vendor_name="Samsung Electronics Co.,Ltd" />
@@ -19414,11 +19574,12 @@
   <VendorMapping mac_prefix="D493A0" vendor_name="Fidelix Oy" />
   <VendorMapping mac_prefix="D4945A" vendor_name="COSMO CO., LTD" />
   <VendorMapping mac_prefix="D494A1" vendor_name="Texas Instruments" />
+  <VendorMapping mac_prefix="D494E8" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="D49524" vendor_name="Clover Network, Inc." />
   <VendorMapping mac_prefix="D496DF" vendor_name="SUNGJIN CT CO.,LTD" />
   <VendorMapping mac_prefix="D4970B" vendor_name="XIAOMI CORPORATION" />
   <VendorMapping mac_prefix="D49A20" vendor_name="Apple" />
-  <VendorMapping mac_prefix="D49C28" vendor_name="JayBird Gear LLC" />
+  <VendorMapping mac_prefix="D49C28" vendor_name="JayBird LLC" />
   <VendorMapping mac_prefix="D49C8E" vendor_name="University of FUKUI" />
   <VendorMapping mac_prefix="D49E6D" vendor_name="Wuhan Zhongyuan Huadian Science  Technology Co.," />
   <VendorMapping mac_prefix="D4A02A" vendor_name="CISCO SYSTEMS, INC." />
@@ -19462,6 +19623,7 @@
   <VendorMapping mac_prefix="D4F0B4" vendor_name="Napco Security Technologies" />
   <VendorMapping mac_prefix="D4F143" vendor_name="IPROAD.,Inc" />
   <VendorMapping mac_prefix="D4F46F" vendor_name="Apple" />
+  <VendorMapping mac_prefix="D4F4BE" vendor_name="Palo Alto Networks" />
   <VendorMapping mac_prefix="D4F513" vendor_name="Texas Instruments" />
   <VendorMapping mac_prefix="D4F63F" vendor_name="IEA S.R.L." />
   <VendorMapping mac_prefix="D4F9A1" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
@@ -19533,7 +19695,9 @@
   <VendorMapping mac_prefix="D88039" vendor_name="Microchip Technology Inc." />
   <VendorMapping mac_prefix="D881CE" vendor_name="AHN INC." />
   <VendorMapping mac_prefix="D88466" vendor_name="Extreme Networks" />
+  <VendorMapping mac_prefix="D888CE" vendor_name="RF Technology Pty Ltd" />
   <VendorMapping mac_prefix="D88A3B" vendor_name="UNIT-EM" />
+  <VendorMapping mac_prefix="D88B4C" vendor_name="KingTing Tech." />
   <VendorMapping mac_prefix="D88D5C" vendor_name="Elentec" />
   <VendorMapping mac_prefix="D890E8" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="D89341" vendor_name="General Electric Global Research" />
@@ -19617,6 +19781,7 @@
   <VendorMapping mac_prefix="DC1EA3" vendor_name="Accensus LLC" />
   <VendorMapping mac_prefix="DC2008" vendor_name="ASD Electronics Ltd" />
   <VendorMapping mac_prefix="DC2A14" vendor_name="Shanghai Longjing Technology Co." />
+  <VendorMapping mac_prefix="DC2B2A" vendor_name="Apple" />
   <VendorMapping mac_prefix="DC2B61" vendor_name="Apple" />
   <VendorMapping mac_prefix="DC2B66" vendor_name="InfoBLOCK S.A. de C.V." />
   <VendorMapping mac_prefix="DC2BCA" vendor_name="Zera GmbH" />
@@ -19632,8 +19797,10 @@
   <VendorMapping mac_prefix="DC3A5E" vendor_name="Roku, Inc" />
   <VendorMapping mac_prefix="DC3C2E" vendor_name="Manufacturing System Insights, Inc." />
   <VendorMapping mac_prefix="DC3C84" vendor_name="Ticom Geomatics, Inc." />
+  <VendorMapping mac_prefix="DC3CF6" vendor_name="Atomic Rules LLC" />
   <VendorMapping mac_prefix="DC3E51" vendor_name="Solberg  Andersen AS" />
   <VendorMapping mac_prefix="DC3EF8" vendor_name="Nokia Corporation" />
+  <VendorMapping mac_prefix="DC4427" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="DC4517" vendor_name="ARRIS Group, Inc." />
   <VendorMapping mac_prefix="DC49C9" vendor_name="CASCO SIGNAL LTD" />
   <VendorMapping mac_prefix="DC4EDE" vendor_name="SHINYEI TECHNOLOGY CO., LTD." />
@@ -19654,6 +19821,7 @@
   <VendorMapping mac_prefix="DC825B" vendor_name="JANUS, spol. s r.o." />
   <VendorMapping mac_prefix="DC85DE" vendor_name="Azurewave Technologies., inc." />
   <VendorMapping mac_prefix="DC86D8" vendor_name="Apple, Inc" />
+  <VendorMapping mac_prefix="DC9A8E" vendor_name="Nanjing Cocomm electronics co., LTD" />
   <VendorMapping mac_prefix="DC9B1E" vendor_name="Intercom, Inc." />
   <VendorMapping mac_prefix="DC9B9C" vendor_name="Apple" />
   <VendorMapping mac_prefix="DC9C52" vendor_name="Sapphire Technology Limited." />
@@ -19687,6 +19855,7 @@
   <VendorMapping mac_prefix="DCD87F" vendor_name="Shenzhen JoinCyber Telecom Equipment Ltd" />
   <VendorMapping mac_prefix="DCDA4F" vendor_name="GETCK TECHNOLOGY,  INC" />
   <VendorMapping mac_prefix="DCDB70" vendor_name="Tonfunk Systementwicklung und Service GmbH" />
+  <VendorMapping mac_prefix="DCDC07" vendor_name="TRP Systems BV" />
   <VendorMapping mac_prefix="DCDECA" vendor_name="Akyllor" />
   <VendorMapping mac_prefix="DCE026" vendor_name="Patrol Tag, Inc" />
   <VendorMapping mac_prefix="DCE1AD" vendor_name="Shenzhen Wintop Photoelectric Technology Co., Ltd" />
@@ -19842,6 +20011,7 @@
   <VendorMapping mac_prefix="E41218" vendor_name="ShenZhen Rapoo Technology Co., Ltd." />
   <VendorMapping mac_prefix="E4121D" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="E41289" vendor_name="topsystem Systemhaus GmbH" />
+  <VendorMapping mac_prefix="E41A2C" vendor_name="ZPE Systems, Inc." />
   <VendorMapping mac_prefix="E41C4B" vendor_name="V2 TECHNOLOGY, INC." />
   <VendorMapping mac_prefix="E41D2D" vendor_name="Mellanox Technologies, Inc." />
   <VendorMapping mac_prefix="E41F13" vendor_name="IBM Corp" />
@@ -19902,6 +20072,7 @@
   <VendorMapping mac_prefix="E4956E" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
   <VendorMapping mac_prefix="E496AE" vendor_name="ALTOGRAPHICS Inc." />
   <VendorMapping mac_prefix="E497F0" vendor_name="Shanghai VLC Technologies Ltd. Co." />
+  <VendorMapping mac_prefix="E498D1" vendor_name="Microsoft Mobile Oy" />
   <VendorMapping mac_prefix="E498D6" vendor_name="Apple, Inc" />
   <VendorMapping mac_prefix="E4A32F" vendor_name="Shanghai Artimen Technology Co., Ltd." />
   <VendorMapping mac_prefix="E4A5EF" vendor_name="TRON LINK ELECTRONICS CO., LTD." />
@@ -19912,6 +20083,7 @@
   <VendorMapping mac_prefix="E4B021" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="E4BAD9" vendor_name="360 Fly Inc." />
   <VendorMapping mac_prefix="E4C146" vendor_name="Objetivos y Servicios de Valor A" />
+  <VendorMapping mac_prefix="E4C2D1" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="E4C62B" vendor_name="Airware" />
   <VendorMapping mac_prefix="E4C63D" vendor_name="Apple, Inc." />
   <VendorMapping mac_prefix="E4C6E6" vendor_name="Mophie, LLC" />
@@ -19946,6 +20118,7 @@
   <VendorMapping mac_prefix="E804F3" vendor_name="Throughtek Co., Ltd." />
   <VendorMapping mac_prefix="E8056D" vendor_name="Nortel Networks" />
   <VendorMapping mac_prefix="E80688" vendor_name="Apple" />
+  <VendorMapping mac_prefix="E80734" vendor_name="Champion Optical Network Engineering, LLC" />
   <VendorMapping mac_prefix="E807BF" vendor_name="SHENZHEN BOOMTECH INDUSTRY CO.,LTD" />
   <VendorMapping mac_prefix="E8088B" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="E80B13" vendor_name="Akib Systems Taiwan, INC" />
@@ -19954,6 +20127,7 @@
   <VendorMapping mac_prefix="E8102E" vendor_name="Really Simple Software, Inc" />
   <VendorMapping mac_prefix="E81132" vendor_name="Samsung Electronics CO., LTD" />
   <VendorMapping mac_prefix="E81324" vendor_name="GuangZhou Bonsoninfo System CO.,LTD" />
+  <VendorMapping mac_prefix="E81363" vendor_name="Comstock RD, Inc." />
   <VendorMapping mac_prefix="E8150E" vendor_name="Nokia Corporation" />
   <VendorMapping mac_prefix="E8162B" vendor_name="IDEO Security Co., Ltd." />
   <VendorMapping mac_prefix="E817FC" vendor_name="NIFTY Corporation" />
@@ -19966,6 +20140,7 @@
   <VendorMapping mac_prefix="E8377A" vendor_name="ZyXEL Communications Corporation" />
   <VendorMapping mac_prefix="E83935" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="E839DF" vendor_name="Askey Computer" />
+  <VendorMapping mac_prefix="E83A12" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="E83A97" vendor_name="OCZ Technology Group" />
   <VendorMapping mac_prefix="E83EB6" vendor_name="RIM" />
   <VendorMapping mac_prefix="E83EFB" vendor_name="GEODESIC LTD." />
@@ -20032,6 +20207,7 @@
   <VendorMapping mac_prefix="E8BA70" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="E8BB3D" vendor_name="Sino Prime-Tech Limited" />
   <VendorMapping mac_prefix="E8BBA8" vendor_name="GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD." />
+  <VendorMapping mac_prefix="E8BDD1" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="E8BE81" vendor_name="SAGEMCOM" />
   <VendorMapping mac_prefix="E8C229" vendor_name="H-Displays (MSC) Bhd" />
   <VendorMapping mac_prefix="E8C320" vendor_name="Austco Communication Systems Pty Ltd" />
@@ -20144,10 +20320,12 @@
   <VendorMapping mac_prefix="ECB106" vendor_name="Acuro Networks, Inc" />
   <VendorMapping mac_prefix="ECB1D7" vendor_name="Hewlett Packard" />
   <VendorMapping mac_prefix="ECB541" vendor_name="SHINANO E and E Co.Ltd." />
+  <VendorMapping mac_prefix="ECB870" vendor_name="Beijing Heweinet Technology Co.,Ltd." />
   <VendorMapping mac_prefix="ECB907" vendor_name="CloudGenix Inc" />
   <VendorMapping mac_prefix="ECBAFE" vendor_name="GIROPTIC" />
   <VendorMapping mac_prefix="ECBBAE" vendor_name="Digivoice Tecnologia em Eletronica Ltda" />
   <VendorMapping mac_prefix="ECBD09" vendor_name="FUSION Electronics Ltd" />
+  <VendorMapping mac_prefix="ECBD1D" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="ECC38A" vendor_name="Accuenergy (CANADA) Inc" />
   <VendorMapping mac_prefix="ECC882" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="ECCB30" vendor_name="Huawei Technologies Co., Ltd" />
@@ -20159,6 +20337,7 @@
   <VendorMapping mac_prefix="ECD950" vendor_name="IRT SA" />
   <VendorMapping mac_prefix="ECD9D1" vendor_name="Shenzhen TG-NET Botone Technology Co.,Ltd." />
   <VendorMapping mac_prefix="ECDE3D" vendor_name="Lamprey Networks, Inc." />
+  <VendorMapping mac_prefix="ECDF3A" vendor_name="vivo Mobile Communication Co., Ltd." />
   <VendorMapping mac_prefix="ECE09B" vendor_name="Samsung electronics CO., LTD" />
   <VendorMapping mac_prefix="ECE1A9" vendor_name="Cisco" />
   <VendorMapping mac_prefix="ECE2FD" vendor_name="SKG Electric Group(Thailand) Co., Ltd." />
@@ -20183,6 +20362,7 @@
   <VendorMapping mac_prefix="F00248" vendor_name="SmarteBuilding" />
   <VendorMapping mac_prefix="F00786" vendor_name="Shandong Bittel Electronics Co., Ltd" />
   <VendorMapping mac_prefix="F008F1" vendor_name="Samsung Electronics Co.,Ltd" />
+  <VendorMapping mac_prefix="F00D5C" vendor_name="JinQianMao  Technology Co.,Ltd." />
   <VendorMapping mac_prefix="F013C3" vendor_name="SHENZHEN FENDA TECHNOLOGY CO., LTD" />
   <VendorMapping mac_prefix="F015A0" vendor_name="KyungDong One Co., Ltd." />
   <VendorMapping mac_prefix="F0182B" vendor_name="LG Chem" />
@@ -20200,6 +20380,7 @@
   <VendorMapping mac_prefix="F025B7" vendor_name="Samsung Electro Mechanics co., LTD." />
   <VendorMapping mac_prefix="F02624" vendor_name="WAFA TECHNOLOGIES CO., LTD." />
   <VendorMapping mac_prefix="F0264C" vendor_name="Dr. Sigrist AG" />
+  <VendorMapping mac_prefix="F0272D" vendor_name="Amazon Technologies Inc." />
   <VendorMapping mac_prefix="F02765" vendor_name="Murata Manufactuaring Co.,Ltd." />
   <VendorMapping mac_prefix="F02929" vendor_name="Cisco" />
   <VendorMapping mac_prefix="F02A23" vendor_name="Creative Next Design" />
@@ -20264,6 +20445,7 @@
   <VendorMapping mac_prefix="F0AD4E" vendor_name="Globalscale Technologies, Inc." />
   <VendorMapping mac_prefix="F0AE51" vendor_name="Xi3 Corp" />
   <VendorMapping mac_prefix="F0B052" vendor_name="Ruckus Wireless" />
+  <VendorMapping mac_prefix="F0B0E7" vendor_name="Apple" />
   <VendorMapping mac_prefix="F0B2E5" vendor_name="Cisco Systems" />
   <VendorMapping mac_prefix="F0B429" vendor_name="XIAOMI Electronics,CO.,LTD" />
   <VendorMapping mac_prefix="F0B479" vendor_name="Apple" />
@@ -20319,8 +20501,10 @@
   <VendorMapping mac_prefix="F409D8" vendor_name="Samsung Electro Mechanics co., LTD." />
   <VendorMapping mac_prefix="F40B93" vendor_name="Research In Motion" />
   <VendorMapping mac_prefix="F40E11" vendor_name="IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information." />
+  <VendorMapping mac_prefix="F40E22" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="F40F1B" vendor_name="Cisco" />
   <VendorMapping mac_prefix="F40F9B" vendor_name="WAVELINK" />
+  <VendorMapping mac_prefix="F41535" vendor_name="SPON Communication Technology Co.,Ltd" />
   <VendorMapping mac_prefix="F41563" vendor_name="F5 Networks, Inc." />
   <VendorMapping mac_prefix="F415FD" vendor_name="Shanghai Pateo Electronic Equipment Manufacturing Co., Ltd." />
   <VendorMapping mac_prefix="F41BA1" vendor_name="Apple" />
@@ -20345,6 +20529,7 @@
   <VendorMapping mac_prefix="F44713" vendor_name="Leading Public Performance Co., Ltd." />
   <VendorMapping mac_prefix="F4472A" vendor_name="Nanjing Rousing Sci. and Tech. Industrial Co., Ltd" />
   <VendorMapping mac_prefix="F44848" vendor_name="Amscreen Group Ltd" />
+  <VendorMapping mac_prefix="F44D30" vendor_name="Elitegroup Computer Systems Co.,Ltd." />
   <VendorMapping mac_prefix="F44E05" vendor_name="Cisco" />
   <VendorMapping mac_prefix="F44EFD" vendor_name="Actions Semiconductor Co.,Ltd.(Cayman Islands)" />
   <VendorMapping mac_prefix="F450EB" vendor_name="Telechips Inc" />
@@ -20373,8 +20558,11 @@
   <VendorMapping mac_prefix="F47B5E" vendor_name="Samsung Eletronics Co., Ltd" />
   <VendorMapping mac_prefix="F47F35" vendor_name="CISCO SYSTEMS, INC." />
   <VendorMapping mac_prefix="F48139" vendor_name="CANON INC." />
+  <VendorMapping mac_prefix="F483CD" vendor_name="TP-LINK TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="F48771" vendor_name="Infoblox" />
+  <VendorMapping mac_prefix="F48B32" vendor_name="XIAOMI INC" />
   <VendorMapping mac_prefix="F48E09" vendor_name="Nokia Corporation" />
+  <VendorMapping mac_prefix="F48E92" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="F490CA" vendor_name="Tensorcom" />
   <VendorMapping mac_prefix="F490EA" vendor_name="Deciso B.V." />
   <VendorMapping mac_prefix="F49461" vendor_name="NexGen Storage" />
@@ -20465,7 +20653,6 @@
   <VendorMapping mac_prefix="F83D4E" vendor_name="Softlink Automation System Co., Ltd" />
   <VendorMapping mac_prefix="F83DFF" vendor_name="Huawei Technologies Co., Ltd" />
   <VendorMapping mac_prefix="F842FB" vendor_name="Yasuda Joho Co.,ltd." />
-  <VendorMapping mac_prefix="F84360" vendor_name="" />
   <VendorMapping mac_prefix="F845AD" vendor_name="Konka Group Co., Ltd." />
   <VendorMapping mac_prefix="F8462D" vendor_name="SYNTEC Incorporation" />
   <VendorMapping mac_prefix="F8472D" vendor_name="X2gen Digital Corp. Ltd" />
@@ -20510,6 +20697,7 @@
   <VendorMapping mac_prefix="F89550" vendor_name="Proton Products Chengdu Ltd" />
   <VendorMapping mac_prefix="F895C7" vendor_name="LG Electronics (Mobile Communications)" />
   <VendorMapping mac_prefix="F897CF" vendor_name="DAESHIN-INFORMATION TECHNOLOGY CO., LTD." />
+  <VendorMapping mac_prefix="F898B9" vendor_name="HUAWEI TECHNOLOGIES CO.,LTD" />
   <VendorMapping mac_prefix="F89955" vendor_name="Fortress Technology Inc" />
   <VendorMapping mac_prefix="F89D0D" vendor_name="Control Technology Inc." />
   <VendorMapping mac_prefix="F89FB8" vendor_name="YAZAKI Energy System Corporation" />
@@ -20659,7 +20847,7 @@
   <VendorMapping mac_prefix="FCB4E6" vendor_name="ASKEY COMPUTER CORP." />
   <VendorMapping mac_prefix="FCB698" vendor_name="Cambridge Industries(Group) Co.,Ltd." />
   <VendorMapping mac_prefix="FCBBA1" vendor_name="Shenzhen Minicreate Technology Co.,Ltd" />
-  <VendorMapping mac_prefix="FCC233" vendor_name="ASUSTek COMPUTER INC." />
+  <VendorMapping mac_prefix="FCC233" vendor_name="" />
   <VendorMapping mac_prefix="FCC23D" vendor_name="Atmel Corporation" />
   <VendorMapping mac_prefix="FCC2DE" vendor_name="Murata Manufacturing Co., Ltd." />
   <VendorMapping mac_prefix="FCC734" vendor_name="Samsung Electronics Co.,Ltd" />
@@ -20686,6 +20874,7 @@
   <VendorMapping mac_prefix="FCE892" vendor_name="Hangzhou Lancable Technology Co.,Ltd" />
   <VendorMapping mac_prefix="FCE998" vendor_name="Apple" />
   <VendorMapping mac_prefix="FCEDB9" vendor_name="Arrayent" />
+  <VendorMapping mac_prefix="FCF136" vendor_name="Samsung Electronics Co.,Ltd" />
   <VendorMapping mac_prefix="FCF152" vendor_name="Sony Corporation" />
   <VendorMapping mac_prefix="FCF1CD" vendor_name="OPTEX-FA CO.,LTD." />
   <VendorMapping mac_prefix="FCF528" vendor_name="ZyXEL Communications Corporation" />
