@@ -80,7 +80,7 @@ public class VendorMac {
     }
     
     static private final String APPLE_ENUM_PREFIX = 
-            "package com.lge.aha.constants;\n"
+            "package com.yourpackage.aha.constants;\n"
            + "\n"
            + "import java.util.HashMap;\n"
            + "import java.util.Map;\n"
@@ -97,7 +97,7 @@ public class VendorMac {
            + " *  \n"
            + " * NOTE: Need to Update periodically.\n"
            + " * \n"
-           + " * @author sunghun1.jung\n"
+           + " * @author blomdhal\n"
            + " * \n"
            + " */\n"
            + "@SuppressLint(\"UseSparseArrays\")\n"
